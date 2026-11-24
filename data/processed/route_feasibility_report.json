@@ -1,0 +1,1229 @@
+{
+  "generated_at": "2026-11-24T14:07:39.233990+00:00",
+  "local_navigation": {
+    "maps_total": 49,
+    "maps_with_disconnected_walkable_components": 16,
+    "maps_with_valid_local_navigation": 49
+  },
+  "physical_route_cost_coverage": {
+    "by_class": {
+      "dungeon_floor": {
+        "invalid": 0,
+        "known_coordinates": 0,
+        "missing_coordinates": 34,
+        "total": 34,
+        "unverified": 34,
+        "usable_by_planner": 0,
+        "verified": 0
+      },
+      "overworld_seam": {
+        "invalid": 0,
+        "known_coordinates": 2010,
+        "missing_coordinates": 0,
+        "total": 2010,
+        "unverified": 2010,
+        "usable_by_planner": 2010,
+        "verified": 0
+      },
+      "overworld_to_dungeon": {
+        "invalid": 4,
+        "known_coordinates": 14,
+        "missing_coordinates": 0,
+        "total": 14,
+        "unverified": 10,
+        "usable_by_planner": 10,
+        "verified": 0
+      }
+    },
+    "excluded_by_planner": 38,
+    "known_coordinate_fraction": 0.9834791059280855,
+    "known_coordinate_transitions": 2024,
+    "planner_usable_fraction": 0.9815354713313897,
+    "planner_usable_transitions": 2020,
+    "total_transitions": 2058,
+    "usable_by_planner": 2020,
+    "verified_transitions": 0
+  },
+  "policy": {
+    "coordinate_order": "row,column",
+    "invalid_transitions": "excluded from every route",
+    "local_bounds": "1..31 inclusive, matching map.js findPath",
+    "missing_coordinates": "never guessed and never replaced with a first-walkable fallback",
+    "transition_cost": 1,
+    "unverified_transitions": "allowed only when allow_unverified=True and labeled in warnings",
+    "verified_only_mode": "available with allow_unverified=False"
+  },
+  "registry_version": "1.0.0",
+  "route_coverage": {
+    "failed_scenarios": 6,
+    "global_routes": 5,
+    "same_map_routes": 1,
+    "simulated_global_routes": 2,
+    "successful_scenarios": 6,
+    "unreachable_routes": 6,
+    "unverified_global_routes": 5,
+    "verified_global_routes": 0
+  },
+  "scenarios": [
+    {
+      "goal": [
+        24,
+        16
+      ],
+      "goal_map": "overworld1",
+      "name": "same_map_local",
+      "result": {
+        "diagnostics": {},
+        "legs": [
+          {
+            "cost": 4,
+            "destination_map": "overworld1",
+            "end": [
+              24,
+              16
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld1",
+            "start": [
+              20,
+              13
+            ],
+            "verification_status": null
+          }
+        ],
+        "map_sequence": [
+          "overworld1"
+        ],
+        "reason": null,
+        "success": true,
+        "total_cost": 4,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        20,
+        13
+      ],
+      "start_map": "overworld1"
+    },
+    {
+      "goal": [
+        10,
+        10
+      ],
+      "goal_map": "overworld6",
+      "name": "overworld_seam_unverified",
+      "result": {
+        "diagnostics": {},
+        "legs": [
+          {
+            "cost": 11,
+            "destination_map": "overworld1",
+            "end": [
+              31,
+              7
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld1",
+            "start": [
+              20,
+              13
+            ],
+            "verification_status": null
+          },
+          {
+            "cost": 1,
+            "destination_map": "overworld6",
+            "end": [
+              1,
+              7
+            ],
+            "kind": "transition",
+            "portal_id": "seam:overworld1:south:r31c07",
+            "source_map": "overworld1",
+            "start": [
+              31,
+              7
+            ],
+            "verification_status": "UNVERIFIED"
+          },
+          {
+            "cost": 9,
+            "destination_map": "overworld6",
+            "end": [
+              10,
+              10
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld6",
+            "start": [
+              1,
+              7
+            ],
+            "verification_status": null
+          }
+        ],
+        "map_sequence": [
+          "overworld1",
+          "overworld6"
+        ],
+        "reason": null,
+        "success": true,
+        "total_cost": 21,
+        "transition_ids": [
+          "seam:overworld1:south:r31c07"
+        ],
+        "transition_statuses": [
+          "UNVERIFIED"
+        ],
+        "uses_invalid": false,
+        "uses_unverified": true,
+        "warnings": [
+          "Route uses 1 UNVERIFIED transition(s); physical landing coordinates were not observed."
+        ]
+      },
+      "simulated": false,
+      "start": [
+        20,
+        13
+      ],
+      "start_map": "overworld1"
+    },
+    {
+      "goal": [
+        20,
+        15
+      ],
+      "goal_map": "overworld11",
+      "name": "multi_seam_unverified",
+      "result": {
+        "diagnostics": {},
+        "legs": [
+          {
+            "cost": 11,
+            "destination_map": "overworld1",
+            "end": [
+              31,
+              7
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld1",
+            "start": [
+              20,
+              13
+            ],
+            "verification_status": null
+          },
+          {
+            "cost": 1,
+            "destination_map": "overworld6",
+            "end": [
+              1,
+              7
+            ],
+            "kind": "transition",
+            "portal_id": "seam:overworld1:south:r31c07",
+            "source_map": "overworld1",
+            "start": [
+              31,
+              7
+            ],
+            "verification_status": "UNVERIFIED"
+          },
+          {
+            "cost": 30,
+            "destination_map": "overworld6",
+            "end": [
+              31,
+              13
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld6",
+            "start": [
+              1,
+              7
+            ],
+            "verification_status": null
+          },
+          {
+            "cost": 1,
+            "destination_map": "overworld11",
+            "end": [
+              1,
+              13
+            ],
+            "kind": "transition",
+            "portal_id": "seam:overworld6:south:r31c13",
+            "source_map": "overworld6",
+            "start": [
+              31,
+              13
+            ],
+            "verification_status": "UNVERIFIED"
+          },
+          {
+            "cost": 19,
+            "destination_map": "overworld11",
+            "end": [
+              20,
+              15
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld11",
+            "start": [
+              1,
+              13
+            ],
+            "verification_status": null
+          }
+        ],
+        "map_sequence": [
+          "overworld1",
+          "overworld6",
+          "overworld11"
+        ],
+        "reason": null,
+        "success": true,
+        "total_cost": 62,
+        "transition_ids": [
+          "seam:overworld1:south:r31c07",
+          "seam:overworld6:south:r31c13"
+        ],
+        "transition_statuses": [
+          "UNVERIFIED",
+          "UNVERIFIED"
+        ],
+        "uses_invalid": false,
+        "uses_unverified": true,
+        "warnings": [
+          "Route uses 2 UNVERIFIED transition(s); physical landing coordinates were not observed."
+        ]
+      },
+      "simulated": false,
+      "start": [
+        20,
+        13
+      ],
+      "start_map": "overworld1"
+    },
+    {
+      "goal": [
+        11,
+        11
+      ],
+      "goal_map": "snowcave1",
+      "name": "dungeon_entrance_unverified",
+      "result": {
+        "diagnostics": {},
+        "legs": [
+          {
+            "cost": 11,
+            "destination_map": "overworld1",
+            "end": [
+              14,
+              2
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "overworld1",
+            "start": [
+              20,
+              13
+            ],
+            "verification_status": null
+          },
+          {
+            "cost": 1,
+            "destination_map": "snowcave1",
+            "end": [
+              16,
+              16
+            ],
+            "kind": "transition",
+            "portal_id": "entrance:overworld1->snowcave1",
+            "source_map": "overworld1",
+            "start": [
+              14,
+              2
+            ],
+            "verification_status": "UNVERIFIED"
+          },
+          {
+            "cost": 5,
+            "destination_map": "snowcave1",
+            "end": [
+              11,
+              11
+            ],
+            "kind": "local",
+            "portal_id": null,
+            "source_map": "snowcave1",
+            "start": [
+              16,
+              16
+            ],
+            "verification_status": null
+          }
+        ],
+        "map_sequence": [
+          "overworld1",
+          "snowcave1"
+        ],
+        "reason": null,
+        "success": true,
+        "total_cost": 17,
+        "transition_ids": [
+          "entrance:overworld1->snowcave1"
+        ],
+        "transition_statuses": [
+          "UNVERIFIED"
+        ],
+        "uses_invalid": false,
+        "uses_unverified": true,
+        "warnings": [
+          "Route uses 1 UNVERIFIED transition(s); physical landing coordinates were not observed."
+        ]
+      },
+      "simulated": false,
+      "start": [
+        20,
+        13
+      ],
+      "start_map": "overworld1"
+    },
+    {
+      "goal": [
+        10,
+        10
+      ],
+      "goal_map": "overworld6",
+      "name": "strict_seam_rejected",
+      "result": {
+        "diagnostics": {
+          "allow_unverified": false,
+          "blocking_edges": [
+            {
+              "destination_map": "overworld6",
+              "source_map": "overworld1",
+              "transitions": [
+                {
+                  "destination_coord": [
+                    1,
+                    2
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c02",
+                  "source_coord": [
+                    31,
+                    2
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    3
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c03",
+                  "source_coord": [
+                    31,
+                    3
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    4
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c04",
+                  "source_coord": [
+                    31,
+                    4
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    6
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c06",
+                  "source_coord": [
+                    31,
+                    6
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    7
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c07",
+                  "source_coord": [
+                    31,
+                    7
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    8
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c08",
+                  "source_coord": [
+                    31,
+                    8
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    9
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c09",
+                  "source_coord": [
+                    31,
+                    9
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    10
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c10",
+                  "source_coord": [
+                    31,
+                    10
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    11
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c11",
+                  "source_coord": [
+                    31,
+                    11
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    12
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c12",
+                  "source_coord": [
+                    31,
+                    12
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    13
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c13",
+                  "source_coord": [
+                    31,
+                    13
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    14
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c14",
+                  "source_coord": [
+                    31,
+                    14
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    15
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c15",
+                  "source_coord": [
+                    31,
+                    15
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    18
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c18",
+                  "source_coord": [
+                    31,
+                    18
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    19
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c19",
+                  "source_coord": [
+                    31,
+                    19
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    20
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c20",
+                  "source_coord": [
+                    31,
+                    20
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    21
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c21",
+                  "source_coord": [
+                    31,
+                    21
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    22
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c22",
+                  "source_coord": [
+                    31,
+                    22
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    23
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c23",
+                  "source_coord": [
+                    31,
+                    23
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    24
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c24",
+                  "source_coord": [
+                    31,
+                    24
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    25
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c25",
+                  "source_coord": [
+                    31,
+                    25
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    26
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c26",
+                  "source_coord": [
+                    31,
+                    26
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    27
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c27",
+                  "source_coord": [
+                    31,
+                    27
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                },
+                {
+                  "destination_coord": [
+                    1,
+                    28
+                  ],
+                  "destination_map": "overworld6",
+                  "portal_id": "seam:overworld1:south:r31c28",
+                  "source_coord": [
+                    31,
+                    28
+                  ],
+                  "source_map": "overworld1",
+                  "transition_class": "overworld_seam",
+                  "transition_type": "seam",
+                  "verification_status": "UNVERIFIED"
+                }
+              ]
+            }
+          ],
+          "blocking_portal_ids": [
+            "seam:overworld1:south:r31c02",
+            "seam:overworld1:south:r31c03",
+            "seam:overworld1:south:r31c04",
+            "seam:overworld1:south:r31c06",
+            "seam:overworld1:south:r31c07",
+            "seam:overworld1:south:r31c08",
+            "seam:overworld1:south:r31c09",
+            "seam:overworld1:south:r31c10",
+            "seam:overworld1:south:r31c11",
+            "seam:overworld1:south:r31c12",
+            "seam:overworld1:south:r31c13",
+            "seam:overworld1:south:r31c14",
+            "seam:overworld1:south:r31c15",
+            "seam:overworld1:south:r31c18",
+            "seam:overworld1:south:r31c19",
+            "seam:overworld1:south:r31c20",
+            "seam:overworld1:south:r31c21",
+            "seam:overworld1:south:r31c22",
+            "seam:overworld1:south:r31c23",
+            "seam:overworld1:south:r31c24",
+            "seam:overworld1:south:r31c25",
+            "seam:overworld1:south:r31c26",
+            "seam:overworld1:south:r31c27",
+            "seam:overworld1:south:r31c28"
+          ],
+          "excluded_by_reason": {
+            "invalid_status": 4,
+            "unverified_not_allowed": 2054
+          },
+          "excluded_transition_count": 2058,
+          "reason": "unverified_not_allowed",
+          "topological_path": [
+            "overworld1",
+            "overworld6"
+          ],
+          "usable_transition_count": 0
+        },
+        "legs": [],
+        "map_sequence": [],
+        "reason": "unverified_not_allowed",
+        "success": false,
+        "total_cost": null,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        20,
+        13
+      ],
+      "start_map": "overworld1"
+    },
+    {
+      "goal": [
+        20,
+        21
+      ],
+      "goal_map": "pkmnmansion1",
+      "name": "invalid_mansion_entrance",
+      "result": {
+        "diagnostics": {
+          "allow_unverified": true,
+          "blocking_portal_ids": [
+            "entrance:overworld21->pkmnmansion1"
+          ],
+          "blocking_transitions": [
+            {
+              "destination_coord": [
+                16,
+                16
+              ],
+              "destination_map": "pkmnmansion1",
+              "portal_id": "entrance:overworld21->pkmnmansion1",
+              "source_coord": [
+                10,
+                10
+              ],
+              "source_map": "overworld21",
+              "transition_class": "overworld_to_dungeon",
+              "transition_type": "entrance",
+              "verification_status": "INVALID"
+            }
+          ],
+          "excluded_by_reason": {
+            "invalid_status": 4,
+            "missing_source_coord": 34
+          },
+          "excluded_transition_count": 38,
+          "reason": "blocked_by_invalid_transitions",
+          "topological_path": [
+            "overworld21",
+            "pkmnmansion1"
+          ],
+          "usable_transition_count": 2020
+        },
+        "legs": [],
+        "map_sequence": [],
+        "reason": "blocked_by_invalid_transitions",
+        "success": false,
+        "total_cost": null,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        10,
+        10
+      ],
+      "start_map": "overworld21"
+    },
+    {
+      "goal": [
+        20,
+        15
+      ],
+      "goal_map": "volcano1",
+      "name": "invalid_volcano_entrance",
+      "result": {
+        "diagnostics": {
+          "allow_unverified": true,
+          "blocking_portal_ids": [
+            "entrance:overworld21->volcano1"
+          ],
+          "blocking_transitions": [
+            {
+              "destination_coord": [
+                16,
+                16
+              ],
+              "destination_map": "volcano1",
+              "portal_id": "entrance:overworld21->volcano1",
+              "source_coord": [
+                22,
+                22
+              ],
+              "source_map": "overworld21",
+              "transition_class": "overworld_to_dungeon",
+              "transition_type": "entrance",
+              "verification_status": "INVALID"
+            }
+          ],
+          "excluded_by_reason": {
+            "invalid_status": 4,
+            "missing_source_coord": 34
+          },
+          "excluded_transition_count": 38,
+          "reason": "blocked_by_invalid_transitions",
+          "topological_path": [
+            "overworld21",
+            "volcano1"
+          ],
+          "usable_transition_count": 2020
+        },
+        "legs": [],
+        "map_sequence": [],
+        "reason": "blocked_by_invalid_transitions",
+        "success": false,
+        "total_cost": null,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        22,
+        22
+      ],
+      "start_map": "overworld21"
+    },
+    {
+      "goal": [
+        19,
+        20
+      ],
+      "goal_map": "snowcave2",
+      "name": "missing_floor_coordinates",
+      "result": {
+        "diagnostics": {
+          "allow_unverified": true,
+          "blocking_edges": [
+            {
+              "destination_map": "snowcave2",
+              "source_map": "snowcave1",
+              "transitions": [
+                {
+                  "destination_coord": null,
+                  "destination_map": "snowcave2",
+                  "portal_id": "floor:snowcave1->snowcave2",
+                  "source_coord": null,
+                  "source_map": "snowcave1",
+                  "transition_class": "dungeon_floor",
+                  "transition_type": "ascend",
+                  "verification_status": "UNVERIFIED"
+                }
+              ]
+            }
+          ],
+          "blocking_portal_ids": [
+            "floor:snowcave1->snowcave2"
+          ],
+          "excluded_by_reason": {
+            "invalid_status": 4,
+            "missing_source_coord": 34
+          },
+          "excluded_transition_count": 38,
+          "reason": "blocked_by_missing_coordinates",
+          "topological_path": [
+            "snowcave1",
+            "snowcave2"
+          ],
+          "usable_transition_count": 2020
+        },
+        "legs": [],
+        "map_sequence": [],
+        "reason": "blocked_by_missing_coordinates",
+        "success": false,
+        "total_cost": null,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        11,
+        11
+      ],
+      "start_map": "snowcave1"
+    },
+    {
+      "goal": [
+        1,
+        22
+      ],
+      "goal_map": "overworld2",
+      "name": "local_unreachable",
+      "result": {
+        "diagnostics": {
+          "allow_unverified": true,
+          "excluded_by_reason": {
+            "invalid_status": 4,
+            "missing_source_coord": 34
+          },
+          "excluded_transition_count": 38,
+          "goal_component_size": 547,
+          "planner_reason": "local_unreachable",
+          "reason": "local_unreachable",
+          "start_component_size": 45,
+          "usable_transition_count": 2020
+        },
+        "legs": [],
+        "map_sequence": [],
+        "reason": "local_unreachable",
+        "success": false,
+        "total_cost": null,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        1,
+        1
+      ],
+      "start_map": "overworld2"
+    },
+    {
+      "goal": [
+        20,
+        13
+      ],
+      "goal_map": "overworld1",
+      "name": "invalid_start",
+      "result": {
+        "diagnostics": {
+          "allow_unverified": true,
+          "excluded_by_reason": {
+            "invalid_status": 4,
+            "missing_source_coord": 34
+          },
+          "excluded_transition_count": 38,
+          "goal_component_size": 532,
+          "reason": "invalid_start:coord_out_of_playable_bounds",
+          "start_component_size": null,
+          "usable_transition_count": 2020
+        },
+        "legs": [],
+        "map_sequence": [],
+        "reason": "invalid_start:coord_out_of_playable_bounds",
+        "success": false,
+        "total_cost": null,
+        "transition_ids": [],
+        "transition_statuses": [],
+        "uses_invalid": false,
+        "uses_unverified": false,
+        "warnings": []
+      },
+      "simulated": false,
+      "start": [
+        0,
+        0
+      ],
+      "start_map": "overworld1"
+    },
+    {
+      "goal": [
+        20,
+        21
+      ],
+      "goal_map": "pkmnmansion1",
+      "name": "simulated_ow21_mansion",
+      "result": {
+        "diagnostics": {},
+        "legs": [
+          {
+            "cost": 1,
+            "destination_map": "pkmnmansion1",
+            "end": [
+              20,
+              21
+            ],
+            "kind": "transition",
+            "portal_id": "entrance:overworld21->pkmnmansion1",
+            "source_map": "overworld21",
+            "start": [
+              10,
+              10
+            ],
+            "verification_status": "UNVERIFIED"
+          }
+        ],
+        "map_sequence": [
+          "overworld21",
+          "pkmnmansion1"
+        ],
+        "reason": null,
+        "success": true,
+        "total_cost": 1,
+        "transition_ids": [
+          "entrance:overworld21->pkmnmansion1"
+        ],
+        "transition_statuses": [
+          "UNVERIFIED"
+        ],
+        "uses_invalid": false,
+        "uses_unverified": true,
+        "warnings": [
+          "Route uses 1 UNVERIFIED transition(s); physical landing coordinates were not observed."
+        ]
+      },
+      "simulated": true,
+      "start": [
+        10,
+        10
+      ],
+      "start_map": "overworld21"
+    },
+    {
+      "goal": [
+        20,
+        15
+      ],
+      "goal_map": "volcano1",
+      "name": "simulated_ow21_volcano",
+      "result": {
+        "diagnostics": {},
+        "legs": [
+          {
+            "cost": 1,
+            "destination_map": "volcano1",
+            "end": [
+              20,
+              15
+            ],
+            "kind": "transition",
+            "portal_id": "entrance:overworld21->volcano1",
+            "source_map": "overworld21",
+            "start": [
+              22,
+              22
+            ],
+            "verification_status": "UNVERIFIED"
+          }
+        ],
+        "map_sequence": [
+          "overworld21",
+          "volcano1"
+        ],
+        "reason": null,
+        "success": true,
+        "total_cost": 1,
+        "transition_ids": [
+          "entrance:overworld21->volcano1"
+        ],
+        "transition_statuses": [
+          "UNVERIFIED"
+        ],
+        "uses_invalid": false,
+        "uses_unverified": true,
+        "warnings": [
+          "Route uses 1 UNVERIFIED transition(s); physical landing coordinates were not observed."
+        ]
+      },
+      "simulated": true,
+      "start": [
+        22,
+        22
+      ],
+      "start_map": "overworld21"
+    }
+  ]
+}
