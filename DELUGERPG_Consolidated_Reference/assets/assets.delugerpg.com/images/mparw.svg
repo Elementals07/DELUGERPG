@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <defs><path id="a" d="M14 5 L0 -9 L-14 5 L-10 5 L-9 6 L-9 9 L9 9 L9 6 L10 5 Z"/></defs>
+  <use href="#a" transform="translate(20 16) rotate(90)" fill="#828282"/>
+  <use href="#a" transform="translate(48 16) rotate(45)" fill="#828282"/>
+  <use href="#a" transform="translate(80 12)" fill="#828282"/>
+  <use href="#a" transform="translate(112 16) rotate(315)" fill="#828282"/>
+  <use href="#a" transform="translate(16 48) rotate(135)" fill="#828282"/>
+  <use href="#a" transform="translate(48 52) rotate(180)" fill="#828282"/>
+  <use href="#a" transform="translate(80 48) rotate(225)" fill="#828282"/>
+  <use href="#a" transform="translate(108 48) rotate(270)" fill="#828282"/>
+  <use href="#a" transform="translate(20 80) rotate(90)" fill="#000"/>
+  <use href="#a" transform="translate(48 80) rotate(45)" fill="#000"/>
+  <use href="#a" transform="translate(80 76)" fill="#000"/>
+  <use href="#a" transform="translate(112 80) rotate(315)" fill="#000"/>
+  <use href="#a" transform="translate(16 112) rotate(135)" fill="#000"/>
+  <use href="#a" transform="translate(48 116) rotate(180)" fill="#000"/>
+  <use href="#a" transform="translate(80 112) rotate(225)" fill="#000"/>
+  <use href="#a" transform="translate(108 112) rotate(270)" fill="#000"/>
+</svg>

@@ -1,0 +1,4730 @@
+[
+  {
+    "name": "10,000,000 Volt Thunderbolt",
+    "type": "electric",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Absorb",
+    "type": "grass",
+    "power": 20,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Accelerock",
+    "type": "rock",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Acid",
+    "type": "poison",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Acid Downpour",
+    "type": "poison",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Acrobatics",
+    "type": "flying",
+    "power": 55,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aerial Ace",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aeroblast",
+    "type": "flying",
+    "power": 100,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Air Cutter",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Air Slash",
+    "type": "flying",
+    "power": 75,
+    "accuracy": 95,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "All-Out Pummeling",
+    "type": "fighting",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Alluring Voice",
+    "type": "fairy",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 40
+  },
+  {
+    "name": "Anchor Shot",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ancient Power",
+    "type": "rock",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Apple Acid",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aqua Cutter",
+    "type": "water",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aqua Jet",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aqua Step",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aqua Tail",
+    "type": "water",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Arm Thrust",
+    "type": "fighting",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Armor Cannon",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Assurance",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Astonish",
+    "type": "ghost",
+    "power": 30,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Astral Barrage",
+    "type": "ghost",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Attack Order",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aura Sphere",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aura Wheel",
+    "type": "electric",
+    "power": 110,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Aurora Beam",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Avalanche",
+    "type": "ice",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Axe Kick",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 90,
+    "effect": "Confuse",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Baddy Bad",
+    "type": "dark",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Barb Barrage",
+    "type": "poison",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Barrage",
+    "type": "normal",
+    "power": 45,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Beak Blast",
+    "type": "flying",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Beat Up",
+    "type": "dark",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Behemoth Bash",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Behemoth Blade",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Belch",
+    "type": "poison",
+    "power": 130,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bind",
+    "type": "normal",
+    "power": 45,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bite",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Bitter Blade",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bitter Malice",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Freeze",
+    "effect_accuracy": 40
+  },
+  {
+    "name": "Black Hole Eclipse",
+    "type": "dark",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Blast Burn",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Blaze Kick",
+    "type": "fire",
+    "power": 85,
+    "accuracy": 90,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Blazing Torque",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Bleakwind Storm",
+    "type": "flying",
+    "power": 95,
+    "accuracy": 80,
+    "effect": "Freeze",
+    "effect_accuracy": 40
+  },
+  {
+    "name": "Blizzard",
+    "type": "ice",
+    "power": 110,
+    "accuracy": 70,
+    "effect": "Freeze",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Blood Moon",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bloom Doom",
+    "type": "grass",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Blue Flare",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 85,
+    "effect": "Burn",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Body Press",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Body Slam",
+    "type": "normal",
+    "power": 85,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Bolt Beak",
+    "type": "electric",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bolt Strike",
+    "type": "electric",
+    "power": 130,
+    "accuracy": 85,
+    "effect": "Paralyz",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Bone Club",
+    "type": "ground",
+    "power": 65,
+    "accuracy": 85,
+    "effect": "Flinch",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Bone Rush",
+    "type": "ground",
+    "power": 65,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bonemerang",
+    "type": "ground",
+    "power": 50,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Boomburst",
+    "type": "normal",
+    "power": 140,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bounce",
+    "type": "flying",
+    "power": 85,
+    "accuracy": 85,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Bouncy Bubble",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Branch Poke",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Brave Bird",
+    "type": "flying",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Breaking Swipe",
+    "type": "dragon",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Breakneck Blitz",
+    "type": "normal",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Brick Break",
+    "type": "fighting",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Brine",
+    "type": "water",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Brutal Swing",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bubble",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bubble Beam",
+    "type": "water",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bug Bite",
+    "type": "bug",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bug Buzz",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bulldoze",
+    "type": "ground",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bullet Punch",
+    "type": "steel",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Bullet Seed",
+    "type": "grass",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Burn Up",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Burning Jealousy",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 40
+  },
+  {
+    "name": "Buzzy Buzz",
+    "type": "electric",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Catastropika",
+    "type": "electric",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ceaseless Edge",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Charge Beam",
+    "type": "electric",
+    "power": 50,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Chatter",
+    "type": "flying",
+    "power": 65,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": null
+  },
+  {
+    "name": "Chilling Water",
+    "type": "water",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Chip Away",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Chloroblast",
+    "type": "grass",
+    "power": 100,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Circle Throw",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Clamp",
+    "type": "water",
+    "power": 35,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Clanging Scales",
+    "type": "dragon",
+    "power": 110,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Clangorous Soulblaze",
+    "type": "dragon",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Close Combat",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Collision Course",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Combat Torque",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Comet Punch",
+    "type": "normal",
+    "power": 52,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Confuse Ray",
+    "type": "ghost",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Confusion",
+    "type": "psychic",
+    "power": 50,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Constrict",
+    "type": "normal",
+    "power": 10,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Continental Crush",
+    "type": "rock",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Core Enforcer",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Corkscrew Crash",
+    "type": "steel",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Crabhammer",
+    "type": "water",
+    "power": 100,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Cross Chop",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Cross Poison",
+    "type": "poison",
+    "power": 70,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Crunch",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Crush Claw",
+    "type": "normal",
+    "power": 75,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Cut",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dark Pulse",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Dark Void",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 80,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Darkest Lariat",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dazzling Gleam",
+    "type": "fairy",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Devastating Drake",
+    "type": "dragon",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Diamond Storm",
+    "type": "rock",
+    "power": 100,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dig",
+    "type": "ground",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dire Claw",
+    "type": "poison",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 65
+  },
+  {
+    "name": "Disarming Voice",
+    "type": "fairy",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Discharge",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dive",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dizzy Punch",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Doom Desire",
+    "type": "steel",
+    "power": 140,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Double Hit",
+    "type": "normal",
+    "power": 55,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Double Iron Bash",
+    "type": "steel",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Double Kick",
+    "type": "fighting",
+    "power": 30,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Double Shock",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Double Slap",
+    "type": "normal",
+    "power": 45,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Double-edge",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Draco Meteor",
+    "type": "dragon",
+    "power": 130,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Ascent",
+    "type": "flying",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Breath",
+    "type": "dragon",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Dragon Claw",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Darts",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Energy",
+    "type": "dragon",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Hammer",
+    "type": "dragon",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Pulse",
+    "type": "dragon",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Rage",
+    "type": "dragon",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dragon Rush",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 75,
+    "effect": "Flinch",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Dragon Tail",
+    "type": "dragon",
+    "power": 60,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Drain Punch",
+    "type": "fighting",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Draining Kiss",
+    "type": "fairy",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Drill Peck",
+    "type": "flying",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Drill Run",
+    "type": "ground",
+    "power": 80,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Drum Beating",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dual Chop",
+    "type": "dragon",
+    "power": 40,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dual Wingbeat",
+    "type": "flying",
+    "power": 80,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dynamax Cannon",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Dynamic Punch",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 50,
+    "effect": "Confuse",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Earth Power",
+    "type": "ground",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Earthquake",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Echoed Voice",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Eerie Spell",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Egg Bomb",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 75,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Electro Ball",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Electro Drift",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Electro Shot",
+    "type": "electric",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ember",
+    "type": "fire",
+    "power": 40,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Energy Ball",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Eruption",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Esper Wing",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Eternabeam",
+    "type": "dragon",
+    "power": 120,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Expanding Force",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Explosion",
+    "type": "normal",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Extrasensory",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Extreme Evoboost",
+    "type": "normal",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Extreme Speed",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Facade",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fairy Wind",
+    "type": "fairy",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fake Out",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "False Surrender",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Feint Attack",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fell Stinger",
+    "type": "bug",
+    "power": 30,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fickle Beam",
+    "type": "dragon",
+    "power": 104,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fiery Dance",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fiery Wrath",
+    "type": "dark",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Final Gambit",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fire Blast",
+    "type": "fire",
+    "power": 110,
+    "accuracy": 85,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Fire Fang",
+    "type": "fire",
+    "power": 65,
+    "accuracy": 95,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Fire Lash",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fire Punch",
+    "type": "fire",
+    "power": 75,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Fire Spin",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "First Impression",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fishious Rend",
+    "type": "water",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fissure",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 30,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flame Burst",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flame Charge",
+    "type": "fire",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flame Wheel",
+    "type": "fire",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Flamethrower",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Flare Blitz",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flash Cannon",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flatter",
+    "type": "dark",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Fleur Cannon",
+    "type": "fairy",
+    "power": 130,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flip Turn",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Floaty Fall",
+    "type": "flying",
+    "power": 90,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flower Trick",
+    "type": "grass",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fly",
+    "type": "flying",
+    "power": 90,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Flying Press",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Focus Blast",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 70,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Focus Punch",
+    "type": "fighting",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Force Palm",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Foul Play",
+    "type": "dark",
+    "power": 95,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Freeze Shock",
+    "type": "ice",
+    "power": 140,
+    "accuracy": 90,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Freeze-Dry",
+    "type": "ice",
+    "power": 70,
+    "accuracy": 100,
+    "effect": "Freeze",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Freezing Glare",
+    "type": "psychic",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Freeze",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Freezy Frost",
+    "type": "ice",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Frenzy Plant",
+    "type": "grass",
+    "power": 150,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Frost Breath",
+    "type": "ice",
+    "power": 60,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fury Attack",
+    "type": "normal",
+    "power": 45,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fury Cutter",
+    "type": "bug",
+    "power": 70,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fury Swipes",
+    "type": "normal",
+    "power": 55,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fusion Bolt",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Fusion Flare",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Gear Grind",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Genesis Supernova",
+    "type": "psychic",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Giga Drain",
+    "type": "grass",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Giga Impact",
+    "type": "normal",
+    "power": 150,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Gigaton Hammer",
+    "type": "steel",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Gigavolt Havoc",
+    "type": "electric",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Glacial Lance",
+    "type": "ice",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Glaciate",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Glaive Rush",
+    "type": "dragon",
+    "power": 110,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Glare",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Glitzy Glow",
+    "type": "psychic",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Grass Whistle",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 55,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Grassy Glide",
+    "type": "grass",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Grav Apple",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Guardian of Alola",
+    "type": "fairy",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Guillotine",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 30,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Gunk Shot",
+    "type": "poison",
+    "power": 120,
+    "accuracy": 80,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Gust",
+    "type": "flying",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hammer Arm",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hard Press",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Head Charge",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Head Smash",
+    "type": "rock",
+    "power": 150,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Headbutt",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Headlong Rush",
+    "type": "ground",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Heart Stamp",
+    "type": "psychic",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Heat Crash",
+    "type": "fire",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Heat Wave",
+    "type": "fire",
+    "power": 95,
+    "accuracy": 90,
+    "effect": "Burn",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Heavy Slam",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hex",
+    "type": "ghost",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hidden Power",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "High Horsepower",
+    "type": "ground",
+    "power": 95,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "High Jump Kick",
+    "type": "fighting",
+    "power": 130,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Horn Attack",
+    "type": "normal",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Horn Drill",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 30,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Horn Leech",
+    "type": "grass",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hurricane",
+    "type": "flying",
+    "power": 110,
+    "accuracy": 70,
+    "effect": "Confuse",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Hydro Cannon",
+    "type": "water",
+    "power": 150,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hydro Pump",
+    "type": "water",
+    "power": 110,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hydro Steam",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hydro Vortex",
+    "type": "water",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hyper Beam",
+    "type": "normal",
+    "power": 150,
+    "accuracy": 75,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hyper Drill",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hyper Fang",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 90,
+    "effect": "Flinch",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Hyper Voice",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hyperspace Fury",
+    "type": "dark",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hyperspace Hole",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Hypnosis",
+    "type": "psychic",
+    "power": 0,
+    "accuracy": 70,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Ice Ball",
+    "type": "ice",
+    "power": 30,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ice Beam",
+    "type": "ice",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Freeze",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Ice Burn",
+    "type": "ice",
+    "power": 140,
+    "accuracy": 90,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Ice Fang",
+    "type": "ice",
+    "power": 65,
+    "accuracy": 95,
+    "effect": "Freeze",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Ice Hammer",
+    "type": "ice",
+    "power": 100,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ice Punch",
+    "type": "ice",
+    "power": 75,
+    "accuracy": 100,
+    "effect": "Freeze",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Ice Shard",
+    "type": "ice",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ice Spinner",
+    "type": "ice",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Icicle Crash",
+    "type": "ice",
+    "power": 85,
+    "accuracy": 90,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Icicle Spear",
+    "type": "ice",
+    "power": 55,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Icy Wind",
+    "type": "ice",
+    "power": 55,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Incinerate",
+    "type": "fire",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Infernal Parade",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Inferno",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 50,
+    "effect": "Burn",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Inferno Overdrive",
+    "type": "fire",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Infestation",
+    "type": "bug",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Iron Head",
+    "type": "steel",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Iron Tail",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 75,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ivy Cudgel",
+    "type": "grass",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Jaw Lock",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Jet Punch",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Judgment",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Jump Kick",
+    "type": "fighting",
+    "power": 100,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Karate Chop",
+    "type": "fighting",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Knock Off",
+    "type": "dark",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Kowtow Cleave",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Lash out",
+    "type": "dark",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Last Resort",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Last Respects",
+    "type": "ghost",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Lava Plume",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Leaf Blade",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Leaf Storm",
+    "type": "grass",
+    "power": 130,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Leaf Tornado",
+    "type": "grass",
+    "power": 65,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Leafage",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Let's Snuggle Forever",
+    "type": "fairy",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Lick",
+    "type": "ghost",
+    "power": 30,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Light Of Ruin",
+    "type": "fairy",
+    "power": 140,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Light That Burns the Sky",
+    "type": "psychic",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Liquidation",
+    "type": "water",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Lovely Kiss",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 75,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Low Kick",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Lumina Crash",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Lunge",
+    "type": "bug",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Luster Purge",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mach Punch",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Magical Leaf",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Magical Torque",
+    "type": "fairy",
+    "power": 100,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Magma Storm",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 75,
+    "effect": "Burn",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Magnet Bomb",
+    "type": "steel",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Magnitude",
+    "type": "ground",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Make It Rain",
+    "type": "steel",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Malicious Moonsault",
+    "type": "dark",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Malignant Chain",
+    "type": "poison",
+    "power": 100,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Matcha Gotcha",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mega Drain",
+    "type": "grass",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mega Kick",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 75,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mega Punch",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Megahorn",
+    "type": "bug",
+    "power": 130,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Menacing Moonraze Maelstrom",
+    "type": "ghost",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Metal Burst",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Metal Claw",
+    "type": "steel",
+    "power": 50,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Meteor Assault",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Meteor Beam",
+    "type": "rock",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Meteor Mash",
+    "type": "steel",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mighty Cleave",
+    "type": "rock",
+    "power": 95,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mind Blown",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mirror Shot",
+    "type": "steel",
+    "power": 65,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mist Ball",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Misty Explosion",
+    "type": "fairy",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Moonblast",
+    "type": "fairy",
+    "power": 95,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Moongeist Beam",
+    "type": "ghost",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mortal Spin",
+    "type": "poison",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mountain Gale",
+    "type": "ice",
+    "power": 90,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mud Bomb",
+    "type": "ground",
+    "power": 65,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mud Shot",
+    "type": "ground",
+    "power": 55,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mud-slap",
+    "type": "ground",
+    "power": 20,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Muddy Water",
+    "type": "water",
+    "power": 90,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Multi-Attack",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mystical Fire",
+    "type": "fire",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Mystical Power",
+    "type": "psychic",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Nature's Madness",
+    "type": "fairy",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Needle Arm",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Never-Ending Nightmare",
+    "type": "ghost",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Night Daze",
+    "type": "dark",
+    "power": 85,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Night Shade",
+    "type": "ghost",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Night Slash",
+    "type": "dark",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Noxious Torque",
+    "type": "poison",
+    "power": 100,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Nuzzle",
+    "type": "electric",
+    "power": 20,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Oblivion Wing",
+    "type": "flying",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Oceanic Operetta",
+    "type": "water",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Octazooka",
+    "type": "water",
+    "power": 65,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ominous Wind",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Order Up",
+    "type": "dragon",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Origin Pulse",
+    "type": "water",
+    "power": 110,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Outrage",
+    "type": "dragon",
+    "power": 140,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Overdrive",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Overheat",
+    "type": "fire",
+    "power": 130,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Parabolic Charge",
+    "type": "electric",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pay Day",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Payback",
+    "type": "dark",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Peck",
+    "type": "flying",
+    "power": 35,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Petal Blizzard",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Petal Dance",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Phantom Force",
+    "type": "ghost",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Photon Geyser",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pika Papow",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pin Missile",
+    "type": "bug",
+    "power": 65,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Plasma Fists",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Play Rough",
+    "type": "fairy",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pluck",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Poison Fang",
+    "type": "poison",
+    "power": 50,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Poison Gas",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 90,
+    "effect": "Poison",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Poison Jab",
+    "type": "poison",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Poison Powder",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 75,
+    "effect": "Poison",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Poison Sting",
+    "type": "poison",
+    "power": 15,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Poison Tail",
+    "type": "poison",
+    "power": 50,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Pollen Puff",
+    "type": "bug",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Poltergeist",
+    "type": "ghost",
+    "power": 100,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Population Bomb",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pounce",
+    "type": "bug",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pound",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Powder Snow",
+    "type": "ice",
+    "power": 40,
+    "accuracy": 100,
+    "effect": "Freeze",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Power Gem",
+    "type": "rock",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Power Whip",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Power-Up Punch",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Precipice Blades",
+    "type": "ground",
+    "power": 130,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Prismatic Laser",
+    "type": "psychic",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psybeam",
+    "type": "psychic",
+    "power": 65,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Psyblade",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psychic",
+    "type": "psychic",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psychic Fangs",
+    "type": "psychic",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psychic Noise",
+    "type": "psychic",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psycho Boost",
+    "type": "psychic",
+    "power": 140,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psycho Cut",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psyshield Bash",
+    "type": "psychic",
+    "power": 70,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psyshock",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psystrike",
+    "type": "psychic",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Psywave",
+    "type": "psychic",
+    "power": 60,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pulverizing Pancake",
+    "type": "normal",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pursuit",
+    "type": "dark",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Pyro Ball",
+    "type": "fire",
+    "power": 120,
+    "accuracy": 90,
+    "effect": "Burn",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Quick Attack",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rage",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rage Fist",
+    "type": "ghost",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Raging Bull",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Raging Fury",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rapid Spin",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Razor Leaf",
+    "type": "grass",
+    "power": 55,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Razor Shell",
+    "type": "water",
+    "power": 75,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Razor Wind",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Relic Song",
+    "type": "normal",
+    "power": 75,
+    "accuracy": 100,
+    "effect": "Sleep",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Retaliate",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Revelation Dance",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Revenge",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rising Voltage",
+    "type": "electric",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Roar Of Time",
+    "type": "dragon",
+    "power": 150,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rock Blast",
+    "type": "rock",
+    "power": 75,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rock Climb",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 85,
+    "effect": "Confuse",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Rock Slide",
+    "type": "rock",
+    "power": 75,
+    "accuracy": 90,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Rock Smash",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rock Throw",
+    "type": "rock",
+    "power": 50,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rock Tomb",
+    "type": "rock",
+    "power": 60,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rock Wrecker",
+    "type": "rock",
+    "power": 150,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Rolling Kick",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 85,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Rollout",
+    "type": "rock",
+    "power": 30,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Round",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Ruination",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sacred Fire",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 95,
+    "effect": "Burn",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Sacred Sword",
+    "type": "fighting",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Salt Cure",
+    "type": "rock",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sand Tomb",
+    "type": "ground",
+    "power": 75,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sandsear Storm",
+    "type": "ground",
+    "power": 95,
+    "accuracy": 80,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Sappy Seed",
+    "type": "grass",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Savage Spin-Out",
+    "type": "bug",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Scald",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Scale Shot",
+    "type": "dragon",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Scorching Sands",
+    "type": "ground",
+    "power": 70,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Scratch",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Searing Shot",
+    "type": "fire",
+    "power": 100,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Searing Sunraze Smash",
+    "type": "steel",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Secret Power",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Secret Sword",
+    "type": "fighting",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Seed Bomb",
+    "type": "grass",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Seed Flare",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Seismic Toss",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shadow Ball",
+    "type": "ghost",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shadow Bone",
+    "type": "ghost",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shadow Claw",
+    "type": "ghost",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shadow Force",
+    "type": "ghost",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shadow Punch",
+    "type": "ghost",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shadow Sneak",
+    "type": "ghost",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shattered Psyche",
+    "type": "psychic",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sheer Cold",
+    "type": "ice",
+    "power": 100,
+    "accuracy": 30,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shell Side Arm",
+    "type": "poison",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Shell Trap",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Shock Wave",
+    "type": "electric",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Signal Beam",
+    "type": "bug",
+    "power": 75,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Silver Wind",
+    "type": "bug",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sing",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 55,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Sinister Arrow Raid",
+    "type": "ghost",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sizzly Slide",
+    "type": "fire",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sketch",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Skitter Smack",
+    "type": "bug",
+    "power": 70,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Skull Bash",
+    "type": "normal",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sky Attack",
+    "type": "flying",
+    "power": 140,
+    "accuracy": 90,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Sky Drop",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sky Uppercut",
+    "type": "fighting",
+    "power": 85,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Slam",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 75,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Slash",
+    "type": "normal",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sleep Powder",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 75,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Sludge",
+    "type": "poison",
+    "power": 65,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Sludge Bomb",
+    "type": "poison",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Sludge Wave",
+    "type": "poison",
+    "power": 95,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Smack Down",
+    "type": "rock",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Smart Strike",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Smog",
+    "type": "poison",
+    "power": 30,
+    "accuracy": 70,
+    "effect": "Poison",
+    "effect_accuracy": 40
+  },
+  {
+    "name": "Snap Trap",
+    "type": "grass",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Snarl",
+    "type": "dark",
+    "power": 55,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Snipe Shot",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Snore",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Solar Beam",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Solar Blade",
+    "type": "grass",
+    "power": 125,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sonic Boom",
+    "type": "normal",
+    "power": 20,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Soul-Stealing 7-Star Strike",
+    "type": "ghost",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spacial Rend",
+    "type": "dragon",
+    "power": 100,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spark",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Sparkly Swirl",
+    "type": "fairy",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spectral Thief",
+    "type": "ghost",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spike Cannon",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spin Out",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spirit Break",
+    "type": "fairy",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spirit Shackle",
+    "type": "ghost",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Splash",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 0,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Splintered Stormshards",
+    "type": "rock",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Splishy Splash",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Spore",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Springtide Storm",
+    "type": "fairy",
+    "power": 95,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Steam Eruption",
+    "type": "water",
+    "power": 110,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Steamroller",
+    "type": "bug",
+    "power": 65,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Steel Beam",
+    "type": "steel",
+    "power": 120,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Steel Roller",
+    "type": "steel",
+    "power": 130,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Steel Wing",
+    "type": "steel",
+    "power": 70,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Stoked Sparksurfer",
+    "type": "electric",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Stomp",
+    "type": "normal",
+    "power": 65,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Stomping Tantrum",
+    "type": "ground",
+    "power": 75,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Stone Axe",
+    "type": "rock",
+    "power": 65,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Stone Edge",
+    "type": "rock",
+    "power": 100,
+    "accuracy": 80,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Stored Power",
+    "type": "psychic",
+    "power": 30,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Storm Throw",
+    "type": "fighting",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Strange Steam",
+    "type": "fairy",
+    "power": 90,
+    "accuracy": 95,
+    "effect": "Confuse",
+    "effect_accuracy": 50
+  },
+  {
+    "name": "Strength",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Struggle",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Struggle Bug",
+    "type": "bug",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Stun Spore",
+    "type": "grass",
+    "power": 0,
+    "accuracy": 75,
+    "effect": "Paralyz",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Submission",
+    "type": "fighting",
+    "power": 80,
+    "accuracy": 75,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Subzero Slammer",
+    "type": "ice",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sucker Punch",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sunsteel Strike",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Super Fang",
+    "type": "normal",
+    "power": 75,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Supercell Slam",
+    "type": "electric",
+    "power": 100,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Superpower",
+    "type": "fighting",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Supersonic",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 55,
+    "effect": "Confuse",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Supersonic Skystrike",
+    "type": "flying",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Surf",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Surging Strikes",
+    "type": "water",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Sweet Kiss",
+    "type": "fairy",
+    "power": 0,
+    "accuracy": 75,
+    "effect": "Confuse",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Swift",
+    "type": "normal",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Synchronoise",
+    "type": "psychic",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Syrup Bomb",
+    "type": "grass",
+    "power": 60,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tachyon Cutter",
+    "type": "steel",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tackle",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tail Slap",
+    "type": "normal",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Take Down",
+    "type": "normal",
+    "power": 90,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Techno Blast",
+    "type": "normal",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tectonic Rage",
+    "type": "ground",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Temper Flare",
+    "type": "fire",
+    "power": 95,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tera Blast",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tera Starstorm",
+    "type": "normal",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Thief",
+    "type": "dark",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Thrash",
+    "type": "normal",
+    "power": 110,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Throat Chop",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Thunder",
+    "type": "electric",
+    "power": 110,
+    "accuracy": 70,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Thunder Fang",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 95,
+    "effect": "Paralyz",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Thunder Punch",
+    "type": "electric",
+    "power": 75,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Thunder Shock",
+    "type": "electric",
+    "power": 40,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Thunder Wave",
+    "type": "electric",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Thunderbolt",
+    "type": "electric",
+    "power": 90,
+    "accuracy": 100,
+    "effect": "Paralyz",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Thunderclap",
+    "type": "electric",
+    "power": 85,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Thunderous Kick",
+    "type": "fighting",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Torch Song",
+    "type": "fire",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Toxic",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 90,
+    "effect": "Poison",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Toxic Thread",
+    "type": "poison",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Trailblaze",
+    "type": "grass",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Tri Attack",
+    "type": "normal",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Burn",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Triple Arrows",
+    "type": "fighting",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Triple Axel",
+    "type": "ice",
+    "power": 90,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Triple Dive",
+    "type": "water",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Triple Kick",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Trop Kick",
+    "type": "grass",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Twin Beam",
+    "type": "psychic",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Twineedle",
+    "type": "bug",
+    "power": 40,
+    "accuracy": 100,
+    "effect": "Poison",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Twinkle Tackle",
+    "type": "fairy",
+    "power": 200,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Twister",
+    "type": "dragon",
+    "power": 40,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Upper Hand",
+    "type": "fighting",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Uproar",
+    "type": "normal",
+    "power": 110,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "V-create",
+    "type": "fire",
+    "power": 150,
+    "accuracy": 95,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Vacuum Wave",
+    "type": "fighting",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Veevee Volley",
+    "type": "normal",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Venoshock",
+    "type": "poison",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Vine Whip",
+    "type": "grass",
+    "power": 45,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Vise Grip",
+    "type": "normal",
+    "power": 55,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Vital Throw",
+    "type": "fighting",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Volt Tackle",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Wake-up Slap",
+    "type": "fighting",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Water Gun",
+    "type": "water",
+    "power": 40,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Water Pulse",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "effect": "Confuse",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Water Shuriken",
+    "type": "water",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Water Spout",
+    "type": "water",
+    "power": 150,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Waterfall",
+    "type": "water",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Flinch",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Wave Crash",
+    "type": "water",
+    "power": 70,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Weather Ball",
+    "type": "normal",
+    "power": 50,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Whirlpool",
+    "type": "water",
+    "power": 80,
+    "accuracy": 85,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Wicked Blow",
+    "type": "dark",
+    "power": 100,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Wicked Torque",
+    "type": "dark",
+    "power": 80,
+    "accuracy": 100,
+    "effect": "Sleep",
+    "effect_accuracy": 10
+  },
+  {
+    "name": "Wild Charge",
+    "type": "electric",
+    "power": 90,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Wildbolt Storm",
+    "type": "electric",
+    "power": 95,
+    "accuracy": 80,
+    "effect": "Paralyz",
+    "effect_accuracy": 30
+  },
+  {
+    "name": "Will-O-Wisp",
+    "type": "fire",
+    "power": 0,
+    "accuracy": 85,
+    "effect": "Burn",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Wing Attack",
+    "type": "flying",
+    "power": 60,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Wood Hammer",
+    "type": "grass",
+    "power": 120,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Wrap",
+    "type": "normal",
+    "power": 35,
+    "accuracy": 90,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "X-scissor",
+    "type": "bug",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Yawn",
+    "type": "normal",
+    "power": 0,
+    "accuracy": 100,
+    "effect": "Sleep",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Zap Cannon",
+    "type": "electric",
+    "power": 120,
+    "accuracy": 50,
+    "effect": "Paralyz",
+    "effect_accuracy": 100
+  },
+  {
+    "name": "Zen Headbutt",
+    "type": "psychic",
+    "power": 80,
+    "accuracy": 90,
+    "effect": "Flinch",
+    "effect_accuracy": 20
+  },
+  {
+    "name": "Zing Zap",
+    "type": "electric",
+    "power": 80,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  },
+  {
+    "name": "Zippy Zap",
+    "type": "electric",
+    "power": 65,
+    "accuracy": 100,
+    "effect": null,
+    "effect_accuracy": null
+  }
+]

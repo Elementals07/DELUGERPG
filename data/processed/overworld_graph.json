@@ -1,0 +1,3504 @@
+{
+  "node_count": 49,
+  "edge_count": 112,
+  "nodes": {
+    "overworld1": {
+      "map_name": "overworld1",
+      "land_tiles": 454,
+      "water_tiles": 78,
+      "is_overworld": true
+    },
+    "overworld2": {
+      "map_name": "overworld2",
+      "land_tiles": 532,
+      "water_tiles": 64,
+      "is_overworld": true
+    },
+    "overworld3": {
+      "map_name": "overworld3",
+      "land_tiles": 257,
+      "water_tiles": 631,
+      "is_overworld": true
+    },
+    "overworld4": {
+      "map_name": "overworld4",
+      "land_tiles": 738,
+      "water_tiles": 0,
+      "is_overworld": true
+    },
+    "overworld5": {
+      "map_name": "overworld5",
+      "land_tiles": 576,
+      "water_tiles": 0,
+      "is_overworld": true
+    },
+    "overworld6": {
+      "map_name": "overworld6",
+      "land_tiles": 696,
+      "water_tiles": 45,
+      "is_overworld": true
+    },
+    "overworld7": {
+      "map_name": "overworld7",
+      "land_tiles": 531,
+      "water_tiles": 174,
+      "is_overworld": true
+    },
+    "overworld8": {
+      "map_name": "overworld8",
+      "land_tiles": 388,
+      "water_tiles": 542,
+      "is_overworld": true
+    },
+    "overworld9": {
+      "map_name": "overworld9",
+      "land_tiles": 701,
+      "water_tiles": 38,
+      "is_overworld": true
+    },
+    "overworld10": {
+      "map_name": "overworld10",
+      "land_tiles": 644,
+      "water_tiles": 15,
+      "is_overworld": true
+    },
+    "overworld11": {
+      "map_name": "overworld11",
+      "land_tiles": 208,
+      "water_tiles": 376,
+      "is_overworld": true
+    },
+    "overworld12": {
+      "map_name": "overworld12",
+      "land_tiles": 280,
+      "water_tiles": 535,
+      "is_overworld": true
+    },
+    "overworld13": {
+      "map_name": "overworld13",
+      "land_tiles": 419,
+      "water_tiles": 373,
+      "is_overworld": true
+    },
+    "overworld14": {
+      "map_name": "overworld14",
+      "land_tiles": 488,
+      "water_tiles": 290,
+      "is_overworld": true
+    },
+    "overworld15": {
+      "map_name": "overworld15",
+      "land_tiles": 524,
+      "water_tiles": 259,
+      "is_overworld": true
+    },
+    "overworld16": {
+      "map_name": "overworld16",
+      "land_tiles": 138,
+      "water_tiles": 609,
+      "is_overworld": true
+    },
+    "overworld17": {
+      "map_name": "overworld17",
+      "land_tiles": 522,
+      "water_tiles": 222,
+      "is_overworld": true
+    },
+    "overworld18": {
+      "map_name": "overworld18",
+      "land_tiles": 405,
+      "water_tiles": 341,
+      "is_overworld": true
+    },
+    "overworld19": {
+      "map_name": "overworld19",
+      "land_tiles": 416,
+      "water_tiles": 343,
+      "is_overworld": true
+    },
+    "overworld20": {
+      "map_name": "overworld20",
+      "land_tiles": 432,
+      "water_tiles": 430,
+      "is_overworld": true
+    },
+    "overworld21": {
+      "map_name": "overworld21",
+      "land_tiles": 173,
+      "water_tiles": 783,
+      "is_overworld": true
+    },
+    "overworld22": {
+      "map_name": "overworld22",
+      "land_tiles": 289,
+      "water_tiles": 659,
+      "is_overworld": true
+    },
+    "overworld23": {
+      "map_name": "overworld23",
+      "land_tiles": 387,
+      "water_tiles": 557,
+      "is_overworld": true
+    },
+    "overworld24": {
+      "map_name": "overworld24",
+      "land_tiles": 495,
+      "water_tiles": 367,
+      "is_overworld": true
+    },
+    "overworld25": {
+      "map_name": "overworld25",
+      "land_tiles": 404,
+      "water_tiles": 358,
+      "is_overworld": true
+    },
+    "pkmnmansion1": {
+      "map_name": "pkmnmansion1",
+      "land_tiles": 676,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "pkmnmansion2": {
+      "map_name": "pkmnmansion2",
+      "land_tiles": 553,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "pkmnmansion3": {
+      "map_name": "pkmnmansion3",
+      "land_tiles": 548,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "pkmnmansion4": {
+      "map_name": "pkmnmansion4",
+      "land_tiles": 571,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "pkmntower1": {
+      "map_name": "pkmntower1",
+      "land_tiles": 416,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "pkmntower2": {
+      "map_name": "pkmntower2",
+      "land_tiles": 450,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "pkmntower3": {
+      "map_name": "pkmntower3",
+      "land_tiles": 477,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "powerplant1": {
+      "map_name": "powerplant1",
+      "land_tiles": 537,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "powerplant2": {
+      "map_name": "powerplant2",
+      "land_tiles": 494,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "powerplant3": {
+      "map_name": "powerplant3",
+      "land_tiles": 456,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "rockcave1": {
+      "map_name": "rockcave1",
+      "land_tiles": 662,
+      "water_tiles": 171,
+      "is_overworld": false
+    },
+    "rockcave2": {
+      "map_name": "rockcave2",
+      "land_tiles": 748,
+      "water_tiles": 18,
+      "is_overworld": false
+    },
+    "rockcave3": {
+      "map_name": "rockcave3",
+      "land_tiles": 691,
+      "water_tiles": 126,
+      "is_overworld": false
+    },
+    "rockcave4": {
+      "map_name": "rockcave4",
+      "land_tiles": 147,
+      "water_tiles": 711,
+      "is_overworld": false
+    },
+    "snowcave1": {
+      "map_name": "snowcave1",
+      "land_tiles": 717,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "snowcave2": {
+      "map_name": "snowcave2",
+      "land_tiles": 733,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "snowcave3": {
+      "map_name": "snowcave3",
+      "land_tiles": 524,
+      "water_tiles": 353,
+      "is_overworld": false
+    },
+    "snowcave4": {
+      "map_name": "snowcave4",
+      "land_tiles": 719,
+      "water_tiles": 136,
+      "is_overworld": false
+    },
+    "unownruins1": {
+      "map_name": "unownruins1",
+      "land_tiles": 621,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "unownruins2": {
+      "map_name": "unownruins2",
+      "land_tiles": 652,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "volcano1": {
+      "map_name": "volcano1",
+      "land_tiles": 535,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "volcano2": {
+      "map_name": "volcano2",
+      "land_tiles": 520,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "volcano3": {
+      "map_name": "volcano3",
+      "land_tiles": 458,
+      "water_tiles": 0,
+      "is_overworld": false
+    },
+    "volcano4": {
+      "map_name": "volcano4",
+      "land_tiles": 511,
+      "water_tiles": 0,
+      "is_overworld": false
+    }
+  },
+  "edges": [
+    {
+      "from": "overworld1",
+      "to": "overworld6",
+      "direction": "south",
+      "portal_count": 5,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            6,
+            31
+          ],
+          "to": [
+            6,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld1",
+      "to": "overworld2",
+      "direction": "east",
+      "portal_count": 16,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        },
+        {
+          "from": [
+            31,
+            6
+          ],
+          "to": [
+            1,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld2",
+      "to": "overworld7",
+      "direction": "south",
+      "portal_count": 19,
+      "sample_portals": [
+        {
+          "from": [
+            7,
+            31
+          ],
+          "to": [
+            7,
+            1
+          ]
+        },
+        {
+          "from": [
+            8,
+            31
+          ],
+          "to": [
+            8,
+            1
+          ]
+        },
+        {
+          "from": [
+            9,
+            31
+          ],
+          "to": [
+            9,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld2",
+      "to": "overworld1",
+      "direction": "west",
+      "portal_count": 16,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        },
+        {
+          "from": [
+            1,
+            4
+          ],
+          "to": [
+            31,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld2",
+      "to": "overworld3",
+      "direction": "east",
+      "portal_count": 16,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            6
+          ],
+          "to": [
+            1,
+            6
+          ]
+        },
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        },
+        {
+          "from": [
+            31,
+            8
+          ],
+          "to": [
+            1,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld3",
+      "to": "overworld8",
+      "direction": "south",
+      "portal_count": 29,
+      "sample_portals": [
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        },
+        {
+          "from": [
+            4,
+            31
+          ],
+          "to": [
+            4,
+            1
+          ]
+        },
+        {
+          "from": [
+            5,
+            31
+          ],
+          "to": [
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld3",
+      "to": "overworld2",
+      "direction": "west",
+      "portal_count": 16,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            7
+          ],
+          "to": [
+            31,
+            7
+          ]
+        },
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        },
+        {
+          "from": [
+            1,
+            9
+          ],
+          "to": [
+            31,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld3",
+      "to": "overworld4",
+      "direction": "east",
+      "portal_count": 26,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld4",
+      "to": "overworld9",
+      "direction": "south",
+      "portal_count": 20,
+      "sample_portals": [
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        },
+        {
+          "from": [
+            4,
+            31
+          ],
+          "to": [
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld4",
+      "to": "overworld3",
+      "direction": "west",
+      "portal_count": 22,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        },
+        {
+          "from": [
+            1,
+            4
+          ],
+          "to": [
+            31,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld4",
+      "to": "overworld5",
+      "direction": "east",
+      "portal_count": 16,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            6
+          ],
+          "to": [
+            1,
+            6
+          ]
+        },
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld5",
+      "to": "overworld10",
+      "direction": "south",
+      "portal_count": 12,
+      "sample_portals": [
+        {
+          "from": [
+            7,
+            31
+          ],
+          "to": [
+            7,
+            1
+          ]
+        },
+        {
+          "from": [
+            8,
+            31
+          ],
+          "to": [
+            8,
+            1
+          ]
+        },
+        {
+          "from": [
+            9,
+            31
+          ],
+          "to": [
+            9,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld5",
+      "to": "overworld4",
+      "direction": "west",
+      "portal_count": 17,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            6
+          ],
+          "to": [
+            31,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld6",
+      "to": "overworld1",
+      "direction": "north",
+      "portal_count": 4,
+      "sample_portals": [
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            6,
+            1
+          ],
+          "to": [
+            6,
+            31
+          ]
+        },
+        {
+          "from": [
+            7,
+            1
+          ],
+          "to": [
+            7,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld6",
+      "to": "overworld7",
+      "direction": "east",
+      "portal_count": 8,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            13
+          ],
+          "to": [
+            1,
+            13
+          ]
+        },
+        {
+          "from": [
+            31,
+            14
+          ],
+          "to": [
+            1,
+            14
+          ]
+        },
+        {
+          "from": [
+            31,
+            15
+          ],
+          "to": [
+            1,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld7",
+      "to": "overworld2",
+      "direction": "north",
+      "portal_count": 17,
+      "sample_portals": [
+        {
+          "from": [
+            7,
+            1
+          ],
+          "to": [
+            7,
+            31
+          ]
+        },
+        {
+          "from": [
+            8,
+            1
+          ],
+          "to": [
+            8,
+            31
+          ]
+        },
+        {
+          "from": [
+            9,
+            1
+          ],
+          "to": [
+            9,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld7",
+      "to": "overworld12",
+      "direction": "south",
+      "portal_count": 29,
+      "sample_portals": [
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        },
+        {
+          "from": [
+            4,
+            31
+          ],
+          "to": [
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld7",
+      "to": "overworld6",
+      "direction": "west",
+      "portal_count": 8,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            13
+          ],
+          "to": [
+            31,
+            13
+          ]
+        },
+        {
+          "from": [
+            1,
+            14
+          ],
+          "to": [
+            31,
+            14
+          ]
+        },
+        {
+          "from": [
+            1,
+            15
+          ],
+          "to": [
+            31,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld7",
+      "to": "overworld8",
+      "direction": "east",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            6
+          ],
+          "to": [
+            1,
+            6
+          ]
+        },
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        },
+        {
+          "from": [
+            31,
+            8
+          ],
+          "to": [
+            1,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld8",
+      "to": "overworld3",
+      "direction": "north",
+      "portal_count": 29,
+      "sample_portals": [
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        },
+        {
+          "from": [
+            4,
+            1
+          ],
+          "to": [
+            4,
+            31
+          ]
+        },
+        {
+          "from": [
+            5,
+            1
+          ],
+          "to": [
+            5,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld8",
+      "to": "overworld13",
+      "direction": "south",
+      "portal_count": 27,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld8",
+      "to": "overworld7",
+      "direction": "west",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            6
+          ],
+          "to": [
+            31,
+            6
+          ]
+        },
+        {
+          "from": [
+            1,
+            7
+          ],
+          "to": [
+            31,
+            7
+          ]
+        },
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld8",
+      "to": "overworld9",
+      "direction": "east",
+      "portal_count": 23,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld9",
+      "to": "overworld4",
+      "direction": "north",
+      "portal_count": 22,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld9",
+      "to": "overworld14",
+      "direction": "south",
+      "portal_count": 23,
+      "sample_portals": [
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        },
+        {
+          "from": [
+            4,
+            31
+          ],
+          "to": [
+            4,
+            1
+          ]
+        },
+        {
+          "from": [
+            5,
+            31
+          ],
+          "to": [
+            5,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld9",
+      "to": "overworld8",
+      "direction": "west",
+      "portal_count": 21,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld9",
+      "to": "overworld10",
+      "direction": "east",
+      "portal_count": 10,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        },
+        {
+          "from": [
+            31,
+            8
+          ],
+          "to": [
+            1,
+            8
+          ]
+        },
+        {
+          "from": [
+            31,
+            9
+          ],
+          "to": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld10",
+      "to": "overworld5",
+      "direction": "north",
+      "portal_count": 13,
+      "sample_portals": [
+        {
+          "from": [
+            7,
+            1
+          ],
+          "to": [
+            7,
+            31
+          ]
+        },
+        {
+          "from": [
+            8,
+            1
+          ],
+          "to": [
+            8,
+            31
+          ]
+        },
+        {
+          "from": [
+            9,
+            1
+          ],
+          "to": [
+            9,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld10",
+      "to": "overworld15",
+      "direction": "south",
+      "portal_count": 10,
+      "sample_portals": [
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        },
+        {
+          "from": [
+            4,
+            31
+          ],
+          "to": [
+            4,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld10",
+      "to": "overworld9",
+      "direction": "west",
+      "portal_count": 8,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        },
+        {
+          "from": [
+            1,
+            9
+          ],
+          "to": [
+            31,
+            9
+          ]
+        },
+        {
+          "from": [
+            1,
+            10
+          ],
+          "to": [
+            31,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld11",
+      "to": "overworld16",
+      "direction": "south",
+      "portal_count": 16,
+      "sample_portals": [
+        {
+          "from": [
+            16,
+            31
+          ],
+          "to": [
+            16,
+            1
+          ]
+        },
+        {
+          "from": [
+            17,
+            31
+          ],
+          "to": [
+            17,
+            1
+          ]
+        },
+        {
+          "from": [
+            18,
+            31
+          ],
+          "to": [
+            18,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld11",
+      "to": "overworld12",
+      "direction": "east",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        },
+        {
+          "from": [
+            31,
+            8
+          ],
+          "to": [
+            1,
+            8
+          ]
+        },
+        {
+          "from": [
+            31,
+            9
+          ],
+          "to": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld12",
+      "to": "overworld7",
+      "direction": "north",
+      "portal_count": 28,
+      "sample_portals": [
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        },
+        {
+          "from": [
+            4,
+            1
+          ],
+          "to": [
+            4,
+            31
+          ]
+        },
+        {
+          "from": [
+            5,
+            1
+          ],
+          "to": [
+            5,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld12",
+      "to": "overworld17",
+      "direction": "south",
+      "portal_count": 19,
+      "sample_portals": [
+        {
+          "from": [
+            8,
+            31
+          ],
+          "to": [
+            8,
+            1
+          ]
+        },
+        {
+          "from": [
+            14,
+            31
+          ],
+          "to": [
+            14,
+            1
+          ]
+        },
+        {
+          "from": [
+            15,
+            31
+          ],
+          "to": [
+            15,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld12",
+      "to": "overworld11",
+      "direction": "west",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            7
+          ],
+          "to": [
+            31,
+            7
+          ]
+        },
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        },
+        {
+          "from": [
+            1,
+            9
+          ],
+          "to": [
+            31,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld12",
+      "to": "overworld13",
+      "direction": "east",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        },
+        {
+          "from": [
+            31,
+            8
+          ],
+          "to": [
+            1,
+            8
+          ]
+        },
+        {
+          "from": [
+            31,
+            9
+          ],
+          "to": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld13",
+      "to": "overworld8",
+      "direction": "north",
+      "portal_count": 29,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld13",
+      "to": "overworld18",
+      "direction": "south",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld13",
+      "to": "overworld12",
+      "direction": "west",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            7
+          ],
+          "to": [
+            31,
+            7
+          ]
+        },
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        },
+        {
+          "from": [
+            1,
+            9
+          ],
+          "to": [
+            31,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld13",
+      "to": "overworld14",
+      "direction": "east",
+      "portal_count": 26,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld14",
+      "to": "overworld9",
+      "direction": "north",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        },
+        {
+          "from": [
+            4,
+            1
+          ],
+          "to": [
+            4,
+            31
+          ]
+        },
+        {
+          "from": [
+            5,
+            1
+          ],
+          "to": [
+            5,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld14",
+      "to": "overworld19",
+      "direction": "south",
+      "portal_count": 21,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld14",
+      "to": "overworld13",
+      "direction": "west",
+      "portal_count": 26,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld14",
+      "to": "overworld15",
+      "direction": "east",
+      "portal_count": 14,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld15",
+      "to": "overworld10",
+      "direction": "north",
+      "portal_count": 12,
+      "sample_portals": [
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        },
+        {
+          "from": [
+            4,
+            1
+          ],
+          "to": [
+            4,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld15",
+      "to": "overworld20",
+      "direction": "south",
+      "portal_count": 20,
+      "sample_portals": [
+        {
+          "from": [
+            9,
+            31
+          ],
+          "to": [
+            9,
+            1
+          ]
+        },
+        {
+          "from": [
+            10,
+            31
+          ],
+          "to": [
+            10,
+            1
+          ]
+        },
+        {
+          "from": [
+            11,
+            31
+          ],
+          "to": [
+            11,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld15",
+      "to": "overworld14",
+      "direction": "west",
+      "portal_count": 15,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld16",
+      "to": "overworld11",
+      "direction": "north",
+      "portal_count": 15,
+      "sample_portals": [
+        {
+          "from": [
+            17,
+            1
+          ],
+          "to": [
+            17,
+            31
+          ]
+        },
+        {
+          "from": [
+            18,
+            1
+          ],
+          "to": [
+            18,
+            31
+          ]
+        },
+        {
+          "from": [
+            19,
+            1
+          ],
+          "to": [
+            19,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld16",
+      "to": "overworld21",
+      "direction": "south",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld16",
+      "to": "overworld17",
+      "direction": "east",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            7
+          ],
+          "to": [
+            1,
+            7
+          ]
+        },
+        {
+          "from": [
+            31,
+            8
+          ],
+          "to": [
+            1,
+            8
+          ]
+        },
+        {
+          "from": [
+            31,
+            9
+          ],
+          "to": [
+            1,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld17",
+      "to": "overworld12",
+      "direction": "north",
+      "portal_count": 17,
+      "sample_portals": [
+        {
+          "from": [
+            15,
+            1
+          ],
+          "to": [
+            15,
+            31
+          ]
+        },
+        {
+          "from": [
+            16,
+            1
+          ],
+          "to": [
+            16,
+            31
+          ]
+        },
+        {
+          "from": [
+            17,
+            1
+          ],
+          "to": [
+            17,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld17",
+      "to": "overworld22",
+      "direction": "south",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld17",
+      "to": "overworld16",
+      "direction": "west",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            8
+          ],
+          "to": [
+            31,
+            8
+          ]
+        },
+        {
+          "from": [
+            1,
+            9
+          ],
+          "to": [
+            31,
+            9
+          ]
+        },
+        {
+          "from": [
+            1,
+            10
+          ],
+          "to": [
+            31,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld17",
+      "to": "overworld18",
+      "direction": "east",
+      "portal_count": 29,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld18",
+      "to": "overworld13",
+      "direction": "north",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld18",
+      "to": "overworld23",
+      "direction": "south",
+      "portal_count": 22,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld18",
+      "to": "overworld17",
+      "direction": "west",
+      "portal_count": 28,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld18",
+      "to": "overworld19",
+      "direction": "east",
+      "portal_count": 20,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld19",
+      "to": "overworld14",
+      "direction": "north",
+      "portal_count": 21,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld19",
+      "to": "overworld24",
+      "direction": "south",
+      "portal_count": 27,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            3,
+            31
+          ],
+          "to": [
+            3,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld19",
+      "to": "overworld18",
+      "direction": "west",
+      "portal_count": 18,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld19",
+      "to": "overworld20",
+      "direction": "east",
+      "portal_count": 8,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            24
+          ],
+          "to": [
+            1,
+            24
+          ]
+        },
+        {
+          "from": [
+            31,
+            25
+          ],
+          "to": [
+            1,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld20",
+      "to": "overworld15",
+      "direction": "north",
+      "portal_count": 19,
+      "sample_portals": [
+        {
+          "from": [
+            9,
+            1
+          ],
+          "to": [
+            9,
+            31
+          ]
+        },
+        {
+          "from": [
+            10,
+            1
+          ],
+          "to": [
+            10,
+            31
+          ]
+        },
+        {
+          "from": [
+            11,
+            1
+          ],
+          "to": [
+            11,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld20",
+      "to": "overworld25",
+      "direction": "south",
+      "portal_count": 24,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            31
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            2,
+            31
+          ],
+          "to": [
+            2,
+            1
+          ]
+        },
+        {
+          "from": [
+            10,
+            31
+          ],
+          "to": [
+            10,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld20",
+      "to": "overworld19",
+      "direction": "west",
+      "portal_count": 9,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            11
+          ],
+          "to": [
+            31,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld21",
+      "to": "overworld16",
+      "direction": "north",
+      "portal_count": 26,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld21",
+      "to": "overworld22",
+      "direction": "east",
+      "portal_count": 31,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld22",
+      "to": "overworld17",
+      "direction": "north",
+      "portal_count": 25,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld22",
+      "to": "overworld21",
+      "direction": "west",
+      "portal_count": 31,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld22",
+      "to": "overworld23",
+      "direction": "east",
+      "portal_count": 31,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld23",
+      "to": "overworld18",
+      "direction": "north",
+      "portal_count": 23,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld23",
+      "to": "overworld22",
+      "direction": "west",
+      "portal_count": 31,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld23",
+      "to": "overworld24",
+      "direction": "east",
+      "portal_count": 19,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld24",
+      "to": "overworld19",
+      "direction": "north",
+      "portal_count": 28,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            3,
+            1
+          ],
+          "to": [
+            3,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld24",
+      "to": "overworld23",
+      "direction": "west",
+      "portal_count": 18,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld24",
+      "to": "overworld25",
+      "direction": "east",
+      "portal_count": 31,
+      "sample_portals": [
+        {
+          "from": [
+            31,
+            1
+          ],
+          "to": [
+            1,
+            1
+          ]
+        },
+        {
+          "from": [
+            31,
+            2
+          ],
+          "to": [
+            1,
+            2
+          ]
+        },
+        {
+          "from": [
+            31,
+            3
+          ],
+          "to": [
+            1,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld25",
+      "to": "overworld20",
+      "direction": "north",
+      "portal_count": 23,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            1,
+            31
+          ]
+        },
+        {
+          "from": [
+            2,
+            1
+          ],
+          "to": [
+            2,
+            31
+          ]
+        },
+        {
+          "from": [
+            11,
+            1
+          ],
+          "to": [
+            11,
+            31
+          ]
+        }
+      ]
+    },
+    {
+      "from": "overworld25",
+      "to": "overworld24",
+      "direction": "west",
+      "portal_count": 31,
+      "sample_portals": [
+        {
+          "from": [
+            1,
+            1
+          ],
+          "to": [
+            31,
+            1
+          ]
+        },
+        {
+          "from": [
+            1,
+            2
+          ],
+          "to": [
+            31,
+            2
+          ]
+        },
+        {
+          "from": [
+            1,
+            3
+          ],
+          "to": [
+            31,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "from": "pkmnmansion1",
+      "to": "pkmnmansion2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmnmansion2",
+      "to": "pkmnmansion1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmnmansion2",
+      "to": "pkmnmansion3",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmnmansion3",
+      "to": "pkmnmansion2",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmnmansion3",
+      "to": "pkmnmansion4",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmnmansion4",
+      "to": "pkmnmansion3",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmntower1",
+      "to": "pkmntower2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmntower2",
+      "to": "pkmntower1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmntower2",
+      "to": "pkmntower3",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "pkmntower3",
+      "to": "pkmntower2",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "powerplant1",
+      "to": "powerplant2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "powerplant2",
+      "to": "powerplant1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "powerplant2",
+      "to": "powerplant3",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "powerplant3",
+      "to": "powerplant2",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "rockcave1",
+      "to": "rockcave2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "rockcave2",
+      "to": "rockcave1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "rockcave2",
+      "to": "rockcave3",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "rockcave3",
+      "to": "rockcave2",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "rockcave3",
+      "to": "rockcave4",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "rockcave4",
+      "to": "rockcave3",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "snowcave1",
+      "to": "snowcave2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "snowcave2",
+      "to": "snowcave1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "snowcave2",
+      "to": "snowcave3",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "snowcave3",
+      "to": "snowcave2",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "snowcave3",
+      "to": "snowcave4",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "snowcave4",
+      "to": "snowcave3",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "unownruins1",
+      "to": "unownruins2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "unownruins2",
+      "to": "unownruins1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "volcano1",
+      "to": "volcano2",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "volcano2",
+      "to": "volcano1",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "volcano2",
+      "to": "volcano3",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "volcano3",
+      "to": "volcano2",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "volcano3",
+      "to": "volcano4",
+      "direction": "climb_up/advance",
+      "portal_count": 0,
+      "sample_portals": []
+    },
+    {
+      "from": "volcano4",
+      "to": "volcano3",
+      "direction": "climb_down/return",
+      "portal_count": 0,
+      "sample_portals": []
+    }
+  ]
+}

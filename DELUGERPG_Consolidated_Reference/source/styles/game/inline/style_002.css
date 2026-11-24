@@ -1,0 +1,4 @@
+div[id*='oa-360-'][style*='visibility: hidden'] {
+        margin: 0!important;
+        max-height: 0px;
+      }

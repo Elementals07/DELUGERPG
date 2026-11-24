@@ -1,0 +1,1 @@
+[data-dest='placeholder'] > [style*='visibility: visible']  + div.placeholderPlug {display: none!important;}

@@ -1,0 +1,449 @@
+# Captured browser-global symbol inventory
+
+> Names and types only. Runtime values are excluded because snapshots contain session, account, cookie and other sensitive state.
+
+- `$` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `02f1c9b6-ca48-456a-b09a-9f4f5d0b7674` — boolean; observed in captures 23
+- `086db2ac-6bae-42cb-9f42-f47f020a84f9` — boolean; observed in captures 14
+- `0be031cc-6b56-47fe-9474-42d74790ec1f` — boolean; observed in captures 8
+- `1d689aae-921f-417a-9079-54a7ab7a6cb7` — boolean; observed in captures 21
+- `21f3192a-6d86-4f06-b7b3-578b13a24750` — boolean; observed in captures 11
+- `3b5d99e8-fb66-4749-a656-8ce0147859e9` — boolean; observed in captures 24
+- `421c44b8-e16b-4777-8af4-4c812204a3fe` — boolean; observed in captures 26
+- `5e191ef3-fc79-4d47-8f3b-5bac8655d879` — boolean; observed in captures 16
+- `68cc3ce1-4dd4-45e3-aef4-4b66103cb94c` — boolean; observed in captures 5, 6
+- `9d34bbfc-43bb-4def-b446-25e9cabe9e23` — boolean; observed in captures 22
+- `ADAGIO` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `ATK_TYPES` — object; observed in captures 10, 21, 22
+- `AdSlotCollection` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `BATT_HASH` — string; observed in captures 1, 2, 3, 4, 17, 18, 19
+- `BGtEY` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `BlinkText` — function; observed in captures 7
+- `CallServer` — function; observed in captures 7
+- `CreateDraggables` — function; observed in captures 20
+- `FlashLimit` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `GetTeamArr` — function; observed in captures 21
+- `GoogleGcLKhOms` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22, 23, 24, 26
+- `GreyOut` — function; observed in captures 20
+- `Modal` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ModalA11y` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `Move` — function; observed in captures 5, 6
+- `OWE0MzQ0ODc2ZDE4YTdjYWNoZWRfanM=` — string; observed in captures 7, 9, 10, 11, 17, 18, 20, 21, 22, 23, 26
+- `OWE0MzQ0ODc2ZDE4YTdsb2FkZXJfanM=` — string; observed in captures 7, 9, 10, 11, 17, 18, 20, 21, 22, 23, 26
+- `PEEP_ANIM_MS` — number; observed in captures 5, 6
+- `PEEP_DIRBITS` — object; observed in captures 5, 6
+- `PEEP_DIRS` — object; observed in captures 5, 6
+- `PEEP_OX` — number; observed in captures 5, 6
+- `PEEP_OY` — number; observed in captures 5, 6
+- `PEEP_PAUSE_MS` — number; observed in captures 5, 6
+- `PEZ_BASE` — number; observed in captures 5, 6
+- `PEZ_ROW` — number; observed in captures 5, 6
+- `ResetUpDown` — function; observed in captures 21
+- `RunChalCheck` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `SaveState` — function; observed in captures 20
+- `ScrollReset` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `SummarizeDirs` — function; observed in captures 5, 6
+- `SummarizeDirsData` — function; observed in captures 5, 6
+- `UpdateDirs` — function; observed in captures 5, 6
+- `YTZhODZlMzA1YzZhNGFjN2NhY2hlZF9qcw==` — string; observed in captures 1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 16, 19, 24, 25
+- `YTZhODZlMzA1YzZhNGFjN2xvYWRlcl9qcw==` — string; observed in captures 1, 2, 3, 4, 5, 6, 8, 12, 13, 14, 15, 16, 19, 24, 25
+- `_0c79dea9a139e57b437a4dbc` — number; observed in captures 10
+- `_0febd88b8996f419b7d54451` — number; observed in captures 9
+- `_1168b81b1a9121ee6aa5cf97` — function; observed in captures 14
+- `_16876977ac683e83ebfc3e84` — function; observed in captures 17, 18
+- `_1943bff4856a33654f8b63c0` — number; observed in captures 5, 6
+- `_1a1433c84ab8a855ba1c0939` — object; observed in captures 5, 6
+- `_204365408cc1fd5d32120312` — object; observed in captures 23
+- `_22cbbd052ca357ddb85da329` — function; observed in captures 23
+- `_23a6631ec87aaded46531197` — number; observed in captures 15
+- `_24479f244f6efbd9494ae74f` — number; observed in captures 14
+- `_24b389d2b4ba85e5cc5b2758` — function; observed in captures 25
+- `_27a4dbc8bb403644d314d693` — function; observed in captures 7
+- `_2afadad3c6293d2678af17db` — function; observed in captures 24
+- `_30155731e4729eaf80f6ccea` — object; observed in captures 12
+- `_349973a8e522f2e82258d39c` — object; observed in captures 17, 18
+- `_36593a7bf376783583cd349b` — object; observed in captures 13
+- `_36e00678c6b855bf7380c3e7` — object; observed in captures 20
+- `_3c493fc6a9deb5e7618bad24` — function; observed in captures 1, 2, 3, 4
+- `_3d153fff039a6e4eb7a41e9a` — function; observed in captures 26
+- `_3e8acb3c04d17dad6b1d2c05` — number; observed in captures 22
+- `_4f353085b4f606b7aeea9c12` — function; observed in captures 16
+- `_4f356d480a6ab1753a38fc47` — function; observed in captures 11
+- `_4f8fbcab6f0071f874825577` — function; observed in captures 5, 6
+- `_5a6be345828481cbf05bad7f` — function; observed in captures 15
+- `_5b95bac2812fda106b9826d5` — function; observed in captures 1, 2, 3, 4
+- `_608033bf547d37cc97ddf18d` — number; observed in captures 11
+- `_6360d3e31a3f115844b56cea` — function; observed in captures 10
+- `_677647ff2351f34b46add366` — number; observed in captures 19
+- `_74bd10fe9d6ae009fc82e8bf` — number; observed in captures 1, 2, 3, 4
+- `_77d5cec896bd2798c48705ec` — number; observed in captures 16
+- `_78715a77c7034bd150846f5b` — number; observed in captures 23
+- `_78a30ba66aecd9a522f33e2a` — function; observed in captures 7
+- `_7b75b4395cc14daba622d4d2` — number; observed in captures 17, 18
+- `_7df8cff7a9b585e813a2baa0` — object; observed in captures 19
+- `_83401dff7585d59ab1f49017` — number; observed in captures 7
+- `_88ce409dc384c5373d548a9d` — function; observed in captures 19
+- `_8a13f752c0a35b0aac3d0371` — number; observed in captures 24
+- `_8c1c4a054784e5beb3c8642d` — object; observed in captures 25
+- `_8d32df6e55b7ba1d59dc1802` — function; observed in captures 24
+- `_8ff85d6c66923fe6c0cc3fe4` — object; observed in captures 10
+- `_908a925fbf469592ff48dd90` — function; observed in captures 20
+- `_91785307df625b81268d4f09` — object; observed in captures 21
+- `_91da20839cd954c9eff3aaab` — object; observed in captures 7
+- `_9551e4bc7d0322730cfa5f2f` — function; observed in captures 23
+- `_971aacbaa144b790464c45c9` — function; observed in captures 8
+- `_9772490c908576d2eaa0e0be` — function; observed in captures 11
+- `_9955d76b1b71cfd3941508b5` — function; observed in captures 9
+- `_99f32e749dda9778c8612d55` — function; observed in captures 15
+- `_9a077706f73c8c54e04af0bc` — function; observed in captures 10
+- `_9bf5c09d966a66f752ebe497` — object; observed in captures 26
+- `_ADAGIO` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20, 21, 23, 25, 26
+- `_F_toggles_default_ContributorServingResponseClientJs` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__CF$cv$params` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__IntegralASAdPush` — function; observed in captures 26
+- `__fcInternalApiManager` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__fcInternalApiPostMessageReady` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__fcInvoked` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__fcexpdef` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__google_lidar_` — number; observed in captures 5, 6, 7, 10, 21, 26
+- `__google_lidar_radf_` — function; observed in captures 5, 6, 7, 10, 21, 26
+- `__googlefc` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__isAdsPersonalizationAllowed` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `__isGoogleAllowed` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `__nats` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__oa360Logs` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `__tcfapi` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__tcfapiEventListeners` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__tcfapiManager` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `__tcfapiPostMessageReady` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `_a19293f4a5b0611c08e4441a` — object; observed in captures 22
+- `_a3b2e7687e9d92d2fdfd256b` — function; observed in captures 12
+- `_a7578cbfa6a27f0eb66f1174` — object; observed in captures 1, 2, 3, 4
+- `_a83eefdd818e4e4aed75dabc` — function; observed in captures 14
+- `_b41a0013dfb0636ac44cad65` — object; observed in captures 24
+- `_b752307a82965dd7ff54549a` — object; observed in captures 15
+- `_b9aec2a13d5e2f3be9ca18a7` — function; observed in captures 20
+- `_c0d590f3a412e7fa6eae9f42` — number; observed in captures 25
+- `_c14036ae2ee80df3994ee84d` — number; observed in captures 8
+- `_c2beeaa24b33e8bf6afe3b37` — object; observed in captures 14
+- `_c2cf6f4a717b370b15053b19` — function; observed in captures 26
+- `_c392374d69a4e00a770bd5f8` — object; observed in captures 9
+- `_c4815ceec190443a167480e7` — function; observed in captures 25
+- `_c744ea3ca58a31aca75474f0` — function; observed in captures 21
+- `_ca3b8fee11d4666cd975a24e` — function; observed in captures 13
+- `_cb24c8c69d8915a56f75ac72` — number; observed in captures 12
+- `_cf_chl_opt` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `_d55fe2adaf3ee29f0f884fc2` — function; observed in captures 8
+- `_d8c90b83682cdd191436ddc6` — function; observed in captures 21
+- `_dd445aacd15c7ef52c2bdc07` — function; observed in captures 22
+- `_ddcf4153288cda67846410cd` — function; observed in captures 13
+- `_ddd1c235c2c0b67c3a20c246` — function; observed in captures 5, 6
+- `_ded742ca92758a176ff45085` — function; observed in captures 12
+- `_e1bfd911fa3668d6cde26c53` — function; observed in captures 22
+- `_e23f8e1b5437eaf5fbfd691b` — number; observed in captures 26
+- `_e69f70e91f8501401a334574` — function; observed in captures 16
+- `_e728eb0a1cb8ac16a31ae85d` — object; observed in captures 11
+- `_e9d19f606b3a5556d920da14` — object; observed in captures 16
+- `_ecaf8cf9d46bcdf919bb767b` — number; observed in captures 20
+- `_ee1a7df3679235a24776fcf7` — function; observed in captures 9
+- `_ef8df248b43a5fca7ac45ce0` — function; observed in captures 17, 18
+- `_f0c50350b1cf431f27e792cf` — number; observed in captures 21
+- `_f18ad31f8dc4d7cffc8a5af9` — function; observed in captures 19
+- `_f7119d0d5ae558a10da7e0f4` — object; observed in captures 8
+- `_ff5a661b20abc7ff6ea874e5` — number; observed in captures 13
+- `_google_rum_ns_` — object; observed in captures 11, 19, 25
+- `_noop` — undefined; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `_pbjsGlobals` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `_swapcache` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `a0454c74-c443-4bb4-b510-b937050aa66f` — boolean; observed in captures 20
+- `a218e5d8-95f9-4e4d-bc2c-41bbaeac75c2` — boolean; observed in captures 19
+- `active_event` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `adjacentTileText` — function; observed in captures 5, 6
+- `adoptPeeps` — function; observed in captures 5, 6
+- `adsbygoogle` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `adsbygoogle_ama_fc_has_run` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `ajaxLinks` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ajaxLinksEnabled` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ajxflag` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `alertBox` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `alertboxid` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ampInaboxFrameOverlayManager` — object; observed in captures 11
+- `ampInaboxIframes` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `ampInaboxPendingMessages` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `ampInaboxPositionObserver` — object; observed in captures 11
+- `animateBgColor` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `apntag` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20, 21, 23, 25, 26
+- `applyNickname` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `applyPeepZ` — function; observed in captures 5, 6
+- `applyPositions` — function; observed in captures 5, 6
+- `article` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `aslastreq` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `auto_check_msg` — boolean; observed in captures 5, 6
+- `b36bf3c5-da89-4dc9-be5c-53b6c5388af0` — boolean; observed in captures 17, 18
+- `badgedisp` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `battleConfirm` — object; observed in captures 1, 2, 3, 4, 7, 17, 18, 19
+- `battleLogAnnounce` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `battleSubmit` — function; observed in captures 1, 2, 3, 4, 17, 18, 19
+- `battlehighlights` — function; observed in captures 1, 2, 3, 4, 17, 18, 19
+- `bindEvolveFlow` — function; observed in captures 10, 21, 22
+- `bindKeepsPicker` — function; observed in captures 10, 21, 22
+- `bindPeepTooltips` — function; observed in captures 5, 6
+- `blinkPeep` — function; observed in captures 5, 6
+- `blueThingies` — function; observed in captures 7
+- `bnote` — string; observed in captures 1, 2, 3, 4, 17, 18, 19
+- `bootstrap` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `boxSearch` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `brcounter` — number; observed in captures 7
+- `bsModalHide` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `bsModalShow` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `busy` — number; observed in captures 5, 6
+- `c79e0277-d0d0-41e8-b815-7d809866e2e5` — boolean; observed in captures 12
+- `cb182b08-19d7-4f29-ba98-5a0ab11dfe96` — boolean; observed in captures 25
+- `challusr` — string; observed in captures 7
+- `changeAttackFetch` — function; observed in captures 10, 21, 22
+- `checkWaiting` — function; observed in captures 7
+- `check_webp_feature` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `clearPeeps` — function; observed in captures 5, 6
+- `clearRealSelections` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `clicked` — number; observed in captures 7
+- `confirmChangeAttack` — function; observed in captures 10, 21, 22
+- `confirmer` — function; observed in captures 11, 12
+- `counterTextArea` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `csspref` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `cssserv` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `currmove` — number; observed in captures 5, 6
+- `currtime` — number; observed in captures 5, 6
+- `d0748c2f-e296-48dc-91a7-84ad034795b5` — boolean; observed in captures 15
+- `d08eeeab-923e-40b0-930d-519c2c14be12` — boolean; observed in captures 9
+- `d81630ee-8b0f-431a-ba34-ee55921b986e` — boolean; observed in captures 7
+- `d921f9a4-5164-44ca-b68d-228116433083` — boolean; observed in captures 1, 2, 3, 4
+- `dataLayer` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `dd28223e-6a15-4605-a24f-823852fe42e7` — boolean; observed in captures 10
+- `default_ContributorServingResponseClientJs` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `defdirs` — object; observed in captures 5
+- `delbatajsTemplate` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `deltrim` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `despawnPeep` — function; observed in captures 5, 6
+- `dire` — string; observed in captures 5
+- `disen` — string; observed in captures 5
+- `disp_poke_row` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `e743c987-39bf-4243-a7ac-b019e9710c5f` — boolean; observed in captures 13
+- `escHtml` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `evocaRow` — function; observed in captures 10, 21, 22
+- `evocaShowError` — function; observed in captures 10, 21, 22
+- `evocaSlotRow` — function; observed in captures 10, 21, 22
+- `evocaSync` — function; observed in captures 10, 21, 22
+- `evolveOptionsModal` — function; observed in captures 10, 21, 22
+- `expandDir` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `explodeAnd` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `extractAjaxLink` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `filterlReply` — function; observed in captures 7
+- `findPath` — function; observed in captures 5, 6
+- `forfeitBattle` — function; observed in captures 7
+- `fqjyf` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `fron` — number; observed in captures 5, 6
+- `fullsubmit` — number; observed in captures 14
+- `gaGlobal` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `gen_tooltips` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `getRandomArbitrary` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ggeac` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `gload` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `goRedirect` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `googDdmPs` — object; observed in captures 17, 18, 20, 25
+- `googFloatingToolbarManagerAsyncPositionUpdate` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `goog_pvsid` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `goog_sdr_l` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `googleCompanionsServicePresent` — function; observed in captures 15, 17, 18, 22, 24
+- `googleGetCompanionAdSlots` — function; observed in captures 15, 17, 18, 22, 24
+- `googleSetCompanionAdContents` — function; observed in captures 15, 17, 18, 22, 24
+- `google_ad_modifications` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_ama_state` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_apltlad` — boolean; observed in captures 12, 13, 15, 17, 18, 22, 24
+- `google_companion_error` — function; observed in captures 15, 17, 18, 22, 24
+- `google_empty_script_included` — boolean; observed in captures 1, 2, 3, 4, 19, 20, 23
+- `google_global_correlator` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_image_requests` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_js_reporting_queue` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_llp` — object; observed in captures 10, 11, 15, 16, 20, 23, 25
+- `google_logging_queue` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_measure_js_timing` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_persistent_state_async` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_plmetrics` — boolean; observed in captures 1, 2, 3, 4
+- `google_prev_clients` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_process_slots` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_pso_loaded_fonts` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24
+- `google_reactive_ads_global_state` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_rum_config` — object; observed in captures 19
+- `google_rum_rcs_pinger` — object; observed in captures 11, 19, 25
+- `google_rum_task_id_counter` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_rum_values` — undefined; observed in captures 11, 19
+- `google_sa_impl` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_sa_queue` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_srt` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `google_tag_data` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_tag_manager` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_timing_params` — object; observed in captures 19
+- `google_unique_id` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `google_user_agent_client_hint` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+- `googlefc` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `googletag` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `greyunusedqtgroup` — function; observed in captures 14
+- `gridTile` — function; observed in captures 5, 6
+- `gtag` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `hasHistory` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `hideTooltips` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `hk` — number; observed in captures 5, 6
+- `hookctr` — number; observed in captures 1, 2, 3, 4, 17, 18, 19
+- `imageserver` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `importer` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `initAtkCombos` — function; observed in captures 10, 21, 22
+- `initTooltips` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `isCapslock` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `isMobileDevice` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `isSelf` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `isTouchDevice` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `isbv` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ish` — object; observed in captures 5, 6
+- `jQuery` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `jQuery40000305827528828794831` — object; observed in captures 10
+- `jQuery40000341426843579045741` — object; observed in captures 26
+- `jQuery400010481619235879071` — object; observed in captures 24
+- `jQuery400017553018196903381` — object; observed in captures 23
+- `jQuery4000181306336197189831` — object; observed in captures 1, 2, 3, 4
+- `jQuery4000193805560327555471` — object; observed in captures 13
+- `jQuery400023088378270031641` — object; observed in captures 9
+- `jQuery400031089411165686011` — object; observed in captures 7
+- `jQuery400031143368936752791` — object; observed in captures 19
+- `jQuery400036044499936478971` — object; observed in captures 5, 6
+- `jQuery400037298629461740531` — object; observed in captures 21
+- `jQuery4000383255734617889531` — object; observed in captures 11
+- `jQuery4000383743154119775331` — object; observed in captures 15
+- `jQuery400040885464870644941` — object; observed in captures 20
+- `jQuery400049152484330793991` — object; observed in captures 22
+- `jQuery400051833019744772881` — object; observed in captures 17, 18
+- `jQuery400052891855533882511` — object; observed in captures 16
+- `jQuery400053694014091424281` — object; observed in captures 25
+- `jQuery400062474128187941591` — object; observed in captures 12
+- `jQuery400079452977386167821` — object; observed in captures 8
+- `jQuery400092231583655836881` — object; observed in captures 14
+- `jsEsc` — function; observed in captures 5, 6
+- `jsserv` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `k_a` — number; observed in captures 5, 6
+- `k_p` — number; observed in captures 5, 6
+- `k_u` — number; observed in captures 5, 6
+- `lastRendered` — string; observed in captures 7
+- `lastmapctx` — object; observed in captures 5, 6
+- `lbStartIfIdle` — function; observed in captures 7
+- `lbcall` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `lbcheckout` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `lbdeadline` — number; observed in captures 7
+- `lbshown` — number; observed in captures 7
+- `lct` — number; observed in captures 5, 6
+- `listToOptions` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `lmt` — number; observed in captures 5, 6
+- `lmw` — number; observed in captures 5, 6
+- `lmx` — number; observed in captures 5, 6
+- `lmy` — number; observed in captures 5, 6
+- `loadCss` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `loadPage` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `logouttok` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `lsearch` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ltc` — number; observed in captures 5, 6
+- `m_h1` — string; observed in captures 5, 6
+- `m_h2` — string; observed in captures 5, 6
+- `m_h3` — string; observed in captures 5, 6
+- `m_x` — string; observed in captures 5, 6
+- `m_y` — number; observed in captures 5, 6
+- `mapAnnounce` — function; observed in captures 5, 6
+- `mapMoveComplete` — object; observed in captures 5, 6
+- `mapMoveDone` — function; observed in captures 5, 6
+- `mapWalkgrid` — string; observed in captures 5, 6
+- `mapfile` — string; observed in captures 5, 6
+- `mapname` — string; observed in captures 5, 6
+- `markRealChecked` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `mdata` — object; observed in captures 5
+- `mnote` — string; observed in captures 5, 6
+- `mobjs` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `n_avatar` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `n_avatar_25` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `n_cash` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `n_user` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ndtop` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ngc` — number; observed in captures 5, 6
+- `nofoc` — number; observed in captures 7
+- `number_format` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ocount` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ohv` — number; observed in captures 5, 6
+- `oldpos` — number; observed in captures 5
+- `oldtop` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `options` — function; observed in captures 10, 11, 12, 22
+- `out` — string; observed in captures 5
+- `pad` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `parseColor` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `pbjs325474` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `pbjs325474Chunk` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 17, 18, 19, 20, 21, 22, 23, 25, 26
+- `peepAnim` — boolean; observed in captures 5, 6
+- `peepLeft` — function; observed in captures 5, 6
+- `peepNextPollAt` — number; observed in captures 5, 6
+- `peepPollMs` — number; observed in captures 5, 6
+- `peepTimer` — number; observed in captures 5, 6
+- `peepTop` — function; observed in captures 5, 6
+- `peeps` — object; observed in captures 5, 6
+- `playerRow` — function; observed in captures 5, 6
+- `pokeBounce` — function; observed in captures 5, 6
+- `poketypes` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `pref_a11y` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `pref_lbatt` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `resetImg` — function; observed in captures 20
+- `resetSortLinks` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `retarget` — function; observed in captures 5, 6
+- `rowelem` — object; observed in captures 20
+- `running` — number; observed in captures 7
+- `sas` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 17, 18, 19, 20, 21, 23, 25, 26
+- `saveImg` — function; observed in captures 20
+- `scrollend` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `scs` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `sct` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `setMsAllBtn` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `setPeepAnim` — function; observed in captures 5, 6
+- `setPeepWater` — function; observed in captures 5, 6
+- `setPlayerZ` — function; observed in captures 5, 6
+- `setWalkgrid` — function; observed in captures 5, 6
+- `spawnPeep` — function; observed in captures 5, 6
+- `srvr_time` — string; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `startMoveCountdown` — function; observed in captures 7
+- `startPeepPoll` — function; observed in captures 5, 6
+- `stepPeep` — function; observed in captures 5, 6
+- `stopBattleCountdowns` — function; observed in captures 7
+- `stopPeepPoll` — function; observed in captures 5, 6
+- `swapRegion` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `switchButtonState` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `switchTheme` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `syncToastTop` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `tacache` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `tch` — boolean; observed in captures 5, 6
+- `teammovetok` — string; observed in captures 21
+- `thismcount` — number; observed in captures 5
+- `timer` — object; observed in captures 5, 6
+- `timer2` — object; observed in captures 5
+- `tk` — string; observed in captures 5, 6
+- `tmout` — number; observed in captures 7
+- `toLower` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `toast` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `toggleRealRow` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `typeaheadDatalist` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `uInt` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `uMov` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `ucfirst` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `uidEvent` — number; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `updatePeepMeta` — function; observed in captures 5, 6
+- `updateSelCount` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `urlencode` — function; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `validateWait` — function; observed in captures 7
+- `varbv` — boolean; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `veryfiqt` — function; observed in captures 14
+- `vt` — number; observed in captures 5, 6
+- `waitingDialog` — object; observed in captures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+- `walkgrid` — object; observed in captures 5, 6
+- `webp_support` — number; observed in captures 15
+- `ximg` — object; observed in captures 5

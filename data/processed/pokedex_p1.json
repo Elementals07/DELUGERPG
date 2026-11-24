@@ -1,0 +1,1502 @@
+[
+  {
+    "dex_no": 1,
+    "name": "Bulbasaur",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 2,
+    "name": "Ivysaur",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 3,
+    "name": "Venusaur",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 3,
+    "name": "Mega Venusaur",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": true,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 3,
+    "name": "G-Max Venusaur",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": true,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 4,
+    "name": "Charmander",
+    "type1": "fire",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 5,
+    "name": "Charmeleon",
+    "type1": "fire",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 6,
+    "name": "Charizard",
+    "type1": "fire",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 6,
+    "name": "Mega Charizard X",
+    "type1": "fire",
+    "type2": "dragon",
+    "is_mega": true,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 6,
+    "name": "Mega Charizard Y",
+    "type1": "fire",
+    "type2": "flying",
+    "is_mega": true,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 6,
+    "name": "G-Max Charizard",
+    "type1": "fire",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": true,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 7,
+    "name": "Squirtle",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 8,
+    "name": "Wartortle",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 9,
+    "name": "Blastoise",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 9,
+    "name": "Mega Blastoise",
+    "type1": "water",
+    "type2": null,
+    "is_mega": true,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 9,
+    "name": "G-Max Blastoise",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": true,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 10,
+    "name": "Caterpie",
+    "type1": "bug",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 11,
+    "name": "Metapod",
+    "type1": "bug",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 12,
+    "name": "Butterfree",
+    "type1": "bug",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 12,
+    "name": "G-Max Butterfree",
+    "type1": "bug",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": true,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 13,
+    "name": "Weedle",
+    "type1": "bug",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 14,
+    "name": "Kakuna",
+    "type1": "bug",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 15,
+    "name": "Beedrill",
+    "type1": "bug",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 15,
+    "name": "Mega Beedrill",
+    "type1": "bug",
+    "type2": "poison",
+    "is_mega": true,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 16,
+    "name": "Pidgey",
+    "type1": "normal",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 17,
+    "name": "Pidgeotto",
+    "type1": "normal",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 18,
+    "name": "Pidgeot",
+    "type1": "normal",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 18,
+    "name": "Mega Pidgeot",
+    "type1": "normal",
+    "type2": "flying",
+    "is_mega": true,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 19,
+    "name": "Rattata",
+    "type1": "normal",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 20,
+    "name": "Raticate",
+    "type1": "normal",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 21,
+    "name": "Spearow",
+    "type1": "normal",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 22,
+    "name": "Fearow",
+    "type1": "normal",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 23,
+    "name": "Ekans",
+    "type1": "poison",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 24,
+    "name": "Arbok",
+    "type1": "poison",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 25,
+    "name": "Pikachu",
+    "type1": "electric",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 25,
+    "name": "G-Max Pikachu",
+    "type1": "electric",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": true,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 26,
+    "name": "Raichu",
+    "type1": "electric",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 27,
+    "name": "Sandshrew",
+    "type1": "ground",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 28,
+    "name": "Sandslash",
+    "type1": "ground",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 29,
+    "name": "Nidoran(f)",
+    "type1": "poison",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 30,
+    "name": "Nidorina",
+    "type1": "poison",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 31,
+    "name": "Nidoqueen",
+    "type1": "poison",
+    "type2": "ground",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 32,
+    "name": "Nidoran(m)",
+    "type1": "poison",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 33,
+    "name": "Nidorino",
+    "type1": "poison",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 34,
+    "name": "Nidoking",
+    "type1": "poison",
+    "type2": "ground",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 35,
+    "name": "Clefairy",
+    "type1": "fairy",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 36,
+    "name": "Clefable",
+    "type1": "fairy",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 37,
+    "name": "Vulpix",
+    "type1": "fire",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 38,
+    "name": "Ninetales",
+    "type1": "fire",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 39,
+    "name": "Jigglypuff",
+    "type1": "normal",
+    "type2": "fairy",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 40,
+    "name": "Wigglytuff",
+    "type1": "normal",
+    "type2": "fairy",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 41,
+    "name": "Zubat",
+    "type1": "poison",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 42,
+    "name": "Golbat",
+    "type1": "poison",
+    "type2": "flying",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 43,
+    "name": "Oddish",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 44,
+    "name": "Gloom",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 45,
+    "name": "Vileplume",
+    "type1": "grass",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 46,
+    "name": "Paras",
+    "type1": "bug",
+    "type2": "grass",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 47,
+    "name": "Parasect",
+    "type1": "bug",
+    "type2": "grass",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 48,
+    "name": "Venonat",
+    "type1": "bug",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 49,
+    "name": "Venomoth",
+    "type1": "bug",
+    "type2": "poison",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 50,
+    "name": "Diglett",
+    "type1": "ground",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 51,
+    "name": "Dugtrio",
+    "type1": "ground",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 52,
+    "name": "Meowth",
+    "type1": "normal",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 52,
+    "name": "G-Max Meowth",
+    "type1": "normal",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": true,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 53,
+    "name": "Persian",
+    "type1": "normal",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 54,
+    "name": "Psyduck",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 55,
+    "name": "Golduck",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 56,
+    "name": "Mankey",
+    "type1": "fighting",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 57,
+    "name": "Primeape",
+    "type1": "fighting",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 58,
+    "name": "Growlithe",
+    "type1": "fire",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 59,
+    "name": "Arcanine",
+    "type1": "fire",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": true,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 60,
+    "name": "Poliwag",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 61,
+    "name": "Poliwhirl",
+    "type1": "water",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 62,
+    "name": "Poliwrath",
+    "type1": "water",
+    "type2": "fighting",
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  },
+  {
+    "dex_no": 63,
+    "name": "Abra",
+    "type1": "psychic",
+    "type2": null,
+    "is_mega": false,
+    "is_gmax": false,
+    "classes_owned": {
+      "Normal": false,
+      "Shiny": false,
+      "Metallic": false,
+      "Ghostly": false,
+      "Dark": false,
+      "Shadow": false,
+      "Mirage": false,
+      "Chrome": false,
+      "Negative": false,
+      "Retro": false
+    }
+  }
+]

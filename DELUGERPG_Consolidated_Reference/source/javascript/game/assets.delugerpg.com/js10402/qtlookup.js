@@ -1,0 +1,1 @@
+$(function(){$(".marked_badqt").length&&$(".marked_badqt .btn-danger").confirm({text:'<div style="font-size:16px;text-align:center;margin:30px auto;">Are you sure you want to offer on this low quality quick trade?</div>',title:"Confirmation",confirmButton:"Yes",confirmButtonClass:"btn-danger",cancelButton:"No",cancelButtonClass:"btn-primary"})});

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+
+# Raw recorded browser sessions can contain personal/session data.
+data/raw/deluge_session_*.zip

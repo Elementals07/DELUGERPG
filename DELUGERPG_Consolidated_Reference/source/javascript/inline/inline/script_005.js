@@ -1,0 +1,1 @@
+var BATT_HASH = '7IdHQ4Xs';
