@@ -1,0 +1,5615 @@
+{
+  "scenarios": 200,
+  "successes": 0,
+  "success_rate": 0.0,
+  "map_success_rate": 0.125,
+  "avg_reward": 372.9194999999998,
+  "avg_steps": 26.71,
+  "avg_steps_success": null,
+  "avg_steps_failure": 26.71,
+  "avg_map_coverage": 0.08938775510204082,
+  "rows": [
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          8,
+          28
+        ],
+        "target_map": "overworld21",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 498.89999999999986,
+      "steps": 30,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "powerplant1",
+        "start_coord": [
+          9,
+          22
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 2,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": -9.000000000000005,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          3,
+          15
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 1,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 14.99999999999996,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld3",
+        "start_coord": [
+          29,
+          6
+        ],
+        "target_map": "overworld3",
+        "target_sector": 3,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 394.24999999999983,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld3",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          2,
+          24
+        ],
+        "target_map": "overworld2",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 407.8999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld2",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld17",
+        "start_coord": [
+          29,
+          27
+        ],
+        "target_map": "overworld17",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 435.5499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld14",
+        "start_coord": [
+          22,
+          24
+        ],
+        "target_map": "overworld14",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld14",
+      "target_coord": [
+        24,
+        23
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld14",
+        "start_coord": [
+          29,
+          23
+        ],
+        "target_map": "overworld14",
+        "target_sector": 2,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld14",
+      "target_coord": [
+        15,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          20,
+          20
+        ],
+        "target_map": "overworld8",
+        "target_sector": 3,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          28,
+          5
+        ],
+        "target_map": "overworld24",
+        "target_sector": 1,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld15",
+        "start_coord": [
+          5,
+          14
+        ],
+        "target_map": "overworld15",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 431.7499999999998,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld15",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          9,
+          23
+        ],
+        "target_map": "overworld1",
+        "target_sector": 3,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 410.5999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          25,
+          26
+        ],
+        "target_map": "overworld1",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 407.2499999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          22,
+          12
+        ],
+        "target_map": "overworld1",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 403.0499999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        14,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld9",
+        "start_coord": [
+          3,
+          8
+        ],
+        "target_map": "overworld9",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 451.7499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld9",
+      "target_coord": [
+        24,
+        22
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld18",
+        "start_coord": [
+          15,
+          28
+        ],
+        "target_map": "overworld18",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 502.3499999999998,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          13,
+          30
+        ],
+        "target_map": "overworld21",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 499.7499999999999,
+      "steps": 30,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld6",
+        "start_coord": [
+          15,
+          9
+        ],
+        "target_map": "overworld6",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 38.99999999999998,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld9",
+      "final_coord": [
+        15,
+        1
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          23,
+          8
+        ],
+        "target_map": "overworld8",
+        "target_sector": 3,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          18,
+          26
+        ],
+        "target_map": "overworld24",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          5,
+          3
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 2,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 14.99999999999996,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          5,
+          14
+        ],
+        "target_map": "overworld16",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 419.9999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld22",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "rockcave1",
+        "start_coord": [
+          23,
+          6
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          14,
+          24
+        ],
+        "target_map": "overworld16",
+        "target_sector": 2,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 420.89999999999975,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld22",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld19",
+        "start_coord": [
+          21,
+          17
+        ],
+        "target_map": "overworld19",
+        "target_sector": 1,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 431.4999999999998,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld19",
+        "start_coord": [
+          6,
+          3
+        ],
+        "target_map": "overworld19",
+        "target_sector": 0,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 472.14999999999975,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld10",
+        "start_coord": [
+          13,
+          4
+        ],
+        "target_map": "overworld10",
+        "target_sector": 3,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 421.5499999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld10",
+      "target_coord": [
+        9,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          8,
+          30
+        ],
+        "target_map": "overworld20",
+        "target_sector": 1,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld20",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          15,
+          16
+        ],
+        "target_map": "overworld1",
+        "target_sector": 2,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 414.44999999999976,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld6",
+        "start_coord": [
+          8,
+          7
+        ],
+        "target_map": "overworld6",
+        "target_sector": 4,
+        "category": "same_map"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 502.3499999999998,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          15,
+          1
+        ],
+        "target_map": "overworld23",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 502.3499999999998,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld23",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld4",
+        "start_coord": [
+          15,
+          26
+        ],
+        "target_map": "overworld5",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 400.1499999999998,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld5",
+      "target_coord": [
+        17,
+        15
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          15,
+          29
+        ],
+        "target_map": "overworld21",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld21",
+      "final_coord": [
+        1,
+        29
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld12",
+        "start_coord": [
+          7,
+          7
+        ],
+        "target_map": "overworld7",
+        "target_sector": 4,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 141.65,
+      "steps": 2,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld7",
+      "final_coord": [
+        31,
+        26
+      ],
+      "target_map": "overworld7",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          21,
+          15
+        ],
+        "target_map": "overworld11",
+        "target_sector": 1,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 423.89999999999964,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld23",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld11",
+      "target_coord": [
+        23,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld11",
+        "start_coord": [
+          6,
+          16
+        ],
+        "target_map": "overworld16",
+        "target_sector": 1,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 416.4999999999999,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld12",
+      "final_coord": [
+        21,
+        26
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld17",
+        "start_coord": [
+          31,
+          5
+        ],
+        "target_map": "overworld18",
+        "target_sector": 4,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld18",
+      "final_coord": [
+        31,
+        1
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        24,
+        23
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          18,
+          7
+        ],
+        "target_map": "overworld24",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 472.14999999999975,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "snowcave1",
+        "start_coord": [
+          27,
+          9
+        ],
+        "target_map": "overworld1",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld1",
+      "final_coord": [
+        14,
+        2
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld10",
+        "start_coord": [
+          5,
+          23
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 421.5499999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          24,
+          27
+        ],
+        "target_map": "overworld9",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 136.35000000000002,
+      "steps": 2,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld9",
+      "final_coord": [
+        8,
+        1
+      ],
+      "target_map": "overworld9",
+      "target_coord": [
+        9,
+        7
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          2,
+          7
+        ],
+        "target_map": "overworld9",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld9",
+      "final_coord": [
+        2,
+        1
+      ],
+      "target_map": "overworld9",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld11",
+        "start_coord": [
+          26,
+          24
+        ],
+        "target_map": "overworld16",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 416.8499999999999,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld12",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld18",
+        "start_coord": [
+          2,
+          8
+        ],
+        "target_map": "overworld19",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld19",
+      "final_coord": [
+        2,
+        1
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld15",
+        "start_coord": [
+          18,
+          22
+        ],
+        "target_map": "overworld14",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 451.7499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld14",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          31,
+          4
+        ],
+        "target_map": "overworld7",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.6999999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "overworld7",
+      "target_coord": [
+        16,
+        15
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld6",
+        "start_coord": [
+          29,
+          9
+        ],
+        "target_map": "overworld11",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 419.5499999999998,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld11",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld10",
+        "start_coord": [
+          14,
+          24
+        ],
+        "target_map": "overworld5",
+        "target_sector": 1,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld5",
+      "final_coord": [
+        31,
+        24
+      ],
+      "target_map": "overworld5",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          20,
+          20
+        ],
+        "target_map": "snowcave1",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 423.4999999999998,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "snowcave1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld12",
+        "start_coord": [
+          12,
+          31
+        ],
+        "target_map": "overworld13",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 445.34999999999974,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        13,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          16,
+          23
+        ],
+        "target_map": "overworld21",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld21",
+      "final_coord": [
+        1,
+        23
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          20,
+          6
+        ],
+        "target_map": "overworld25",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld25",
+      "target_coord": [
+        6,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld7",
+        "start_coord": [
+          5,
+          12
+        ],
+        "target_map": "overworld2",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 512.1499999999997,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld2",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld9",
+        "start_coord": [
+          29,
+          16
+        ],
+        "target_map": "overworld8",
+        "target_sector": 2,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 471.7499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          23,
+          9
+        ],
+        "target_map": "overworld18",
+        "target_sector": 4,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 491.89999999999975,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        24,
+        23
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          21,
+          2
+        ],
+        "target_map": "overworld18",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 491.89999999999975,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          12,
+          8
+        ],
+        "target_map": "overworld17",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 502.0999999999998,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          22,
+          7
+        ],
+        "target_map": "overworld2",
+        "target_sector": 0,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld2",
+      "final_coord": [
+        21,
+        1
+      ],
+      "target_map": "overworld2",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          2,
+          10
+        ],
+        "target_map": "overworld1",
+        "target_sector": 4,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 399.3499999999998,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld9",
+        "start_coord": [
+          11,
+          8
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 3,
+        "category": "short_1hop"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": -33.000000000000014,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld9",
+      "final_coord": [
+        11,
+        8
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          1,
+          12
+        ],
+        "target_map": "overworld17",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          16,
+          3
+        ],
+        "target_map": "overworld8",
+        "target_sector": 3,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 354.9499999999997,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        31,
+        31
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld15",
+        "start_coord": [
+          14,
+          2
+        ],
+        "target_map": "overworld4",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 208.7,
+      "steps": 3,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld4",
+      "final_coord": [
+        23,
+        31
+      ],
+      "target_map": "overworld4",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld12",
+        "start_coord": [
+          8,
+          4
+        ],
+        "target_map": "overworld21",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          31,
+          11
+        ],
+        "target_map": "overworld13",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 165.8,
+      "steps": 2,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld13",
+      "final_coord": [
+        31,
+        11
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld12",
+        "start_coord": [
+          7,
+          7
+        ],
+        "target_map": "overworld21",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          14,
+          27
+        ],
+        "target_map": "overworld12",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 491.1999999999998,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld12",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          2,
+          30
+        ],
+        "target_map": "overworld19",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 502.24999999999983,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          28,
+          18
+        ],
+        "target_map": "overworld10",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 165.8,
+      "steps": 2,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        17
+      ],
+      "target_map": "overworld10",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          15,
+          14
+        ],
+        "target_map": "overworld13",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 34.999999999999964,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld7",
+        "start_coord": [
+          26,
+          7
+        ],
+        "target_map": "overworld3",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 425.1999999999999,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld17",
+      "final_coord": [
+        1,
+        8
+      ],
+      "target_map": "overworld3",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          17,
+          5
+        ],
+        "target_map": "overworld8",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 423.19999999999976,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          14,
+          19
+        ],
+        "target_map": "overworld12",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 488.3999999999998,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld12",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          16,
+          1
+        ],
+        "target_map": "overworld24",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 310.3500000000001,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld21",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld3",
+        "start_coord": [
+          1,
+          21
+        ],
+        "target_map": "overworld9",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 393.99999999999983,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld9",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          15,
+          26
+        ],
+        "target_map": "overworld25",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 513.1499999999999,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld25",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          5,
+          23
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 3,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 427.8999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld11",
+        "start_coord": [
+          20,
+          10
+        ],
+        "target_map": "overworld22",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 467.8999999999998,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld22",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld4",
+        "start_coord": [
+          20,
+          29
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.94999999999976,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          24,
+          1
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": -33.000000000000014,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "unownruins1",
+      "final_coord": [
+        24,
+        1
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          16,
+          2
+        ],
+        "target_map": "overworld19",
+        "target_sector": 3,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 165.8,
+      "steps": 2,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld19",
+      "final_coord": [
+        31,
+        1
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld17",
+        "start_coord": [
+          18,
+          14
+        ],
+        "target_map": "overworld19",
+        "target_sector": 3,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 165.8,
+      "steps": 2,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld19",
+      "final_coord": [
+        18,
+        1
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld4",
+        "start_coord": [
+          2,
+          27
+        ],
+        "target_map": "overworld13",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 417.5999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "rockcave1",
+        "start_coord": [
+          25,
+          19
+        ],
+        "target_map": "overworld10",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 165.8,
+      "steps": 2,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        1
+      ],
+      "target_map": "overworld10",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld14",
+        "start_coord": [
+          22,
+          7
+        ],
+        "target_map": "overworld12",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld12",
+      "target_coord": [
+        21,
+        26
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          23,
+          8
+        ],
+        "target_map": "overworld10",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": -33.000000000000014,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld13",
+      "final_coord": [
+        23,
+        8
+      ],
+      "target_map": "overworld10",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld14",
+        "start_coord": [
+          15,
+          22
+        ],
+        "target_map": "overworld24",
+        "target_sector": 3,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 421.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld12",
+        "start_coord": [
+          17,
+          9
+        ],
+        "target_map": "overworld23",
+        "target_sector": 3,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 450.89999999999975,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld23",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          2,
+          9
+        ],
+        "target_map": "snowcave1",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 407.8999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "snowcave1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "powerplant1",
+        "start_coord": [
+          15,
+          15
+        ],
+        "target_map": "overworld20",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 10.999999999999966,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "overworld20",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          23,
+          31
+        ],
+        "target_map": "overworld6",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          16,
+          19
+        ],
+        "target_map": "overworld15",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.94999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld15",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          1,
+          26
+        ],
+        "target_map": "overworld5",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 208.7,
+      "steps": 3,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld5",
+      "final_coord": [
+        31,
+        25
+      ],
+      "target_map": "overworld5",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          4,
+          24
+        ],
+        "target_map": "overworld8",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 408.7999999999998,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          31,
+          24
+        ],
+        "target_map": "overworld15",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 411.14999999999975,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld15",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          2,
+          11
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 0,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 532.1499999999999,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          27,
+          11
+        ],
+        "target_map": "overworld3",
+        "target_sector": 1,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 422.9,
+      "steps": 12,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        31,
+        31
+      ],
+      "target_map": "overworld3",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld6",
+        "start_coord": [
+          16,
+          30
+        ],
+        "target_map": "overworld16",
+        "target_sector": 2,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          8,
+          9
+        ],
+        "target_map": "overworld22",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld22",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          4,
+          6
+        ],
+        "target_map": "overworld5",
+        "target_sector": 4,
+        "category": "medium_2_3"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 408.7999999999998,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld5",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          19,
+          24
+        ],
+        "target_map": "overworld24",
+        "target_sector": 4,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": -33.000000000000014,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld1",
+      "final_coord": [
+        19,
+        24
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          25,
+          24
+        ],
+        "target_map": "overworld16",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 420.7999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          29,
+          5
+        ],
+        "target_map": "overworld11",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 532.1499999999999,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld11",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          4,
+          11
+        ],
+        "target_map": "overworld19",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 305.9500000000001,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld21",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "snowcave1",
+        "start_coord": [
+          9,
+          9
+        ],
+        "target_map": "overworld21",
+        "target_sector": 0,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          23,
+          15
+        ],
+        "target_map": "overworld15",
+        "target_sector": 4,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 408.7999999999998,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld15",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "powerplant1",
+        "start_coord": [
+          13,
+          2
+        ],
+        "target_map": "overworld17",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 10.999999999999966,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld5",
+        "start_coord": [
+          24,
+          27
+        ],
+        "target_map": "overworld24",
+        "target_sector": 0,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 431.34999999999974,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld24",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          9,
+          27
+        ],
+        "target_map": "snowcave1",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 229.10000000000014,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld2",
+      "final_coord": [
+        31,
+        29
+      ],
+      "target_map": "snowcave1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          10,
+          25
+        ],
+        "target_map": "overworld5",
+        "target_sector": 0,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 545.7499999999999,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld5",
+      "target_coord": [
+        10,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          21,
+          19
+        ],
+        "target_map": "overworld20",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 301.5000000000001,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld21",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld20",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          27,
+          9
+        ],
+        "target_map": "overworld17",
+        "target_sector": 0,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 512.1499999999997,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          14,
+          3
+        ],
+        "target_map": "overworld17",
+        "target_sector": 0,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 420.7999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "powerplant1",
+        "start_coord": [
+          17,
+          9
+        ],
+        "target_map": "overworld13",
+        "target_sector": 4,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 10.999999999999966,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          26,
+          28
+        ],
+        "target_map": "overworld19",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 302.0000000000001,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld21",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          10,
+          18
+        ],
+        "target_map": "overworld4",
+        "target_sector": 2,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 323.05,
+      "steps": 7,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld4",
+      "final_coord": [
+        23,
+        31
+      ],
+      "target_map": "overworld4",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          13,
+          27
+        ],
+        "target_map": "overworld18",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 451.09999999999974,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "snowcave1",
+        "start_coord": [
+          6,
+          19
+        ],
+        "target_map": "overworld20",
+        "target_sector": 4,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld20",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          25,
+          24
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 4,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 572.15,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          7,
+          20
+        ],
+        "target_map": "overworld17",
+        "target_sector": 2,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 420.7999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld17",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld9",
+        "start_coord": [
+          7,
+          31
+        ],
+        "target_map": "overworld11",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 471.7499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld11",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld3",
+        "start_coord": [
+          28,
+          2
+        ],
+        "target_map": "overworld23",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 393.6999999999998,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld23",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld19",
+        "start_coord": [
+          15,
+          12
+        ],
+        "target_map": "overworld7",
+        "target_sector": 0,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 532.1499999999999,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld7",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld4",
+        "start_coord": [
+          23,
+          17
+        ],
+        "target_map": "overworld6",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.94999999999976,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld11",
+        "start_coord": [
+          22,
+          14
+        ],
+        "target_map": "overworld23",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 487.8999999999998,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld23",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "snowcave1",
+        "start_coord": [
+          23,
+          28
+        ],
+        "target_map": "overworld8",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld8",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld9",
+        "start_coord": [
+          7,
+          27
+        ],
+        "target_map": "overworld1",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 491.7499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          31,
+          31
+        ],
+        "target_map": "overworld1",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 541.6999999999999,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          25,
+          13
+        ],
+        "target_map": "overworld6",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 562.35,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          1,
+          22
+        ],
+        "target_map": "overworld14",
+        "target_sector": 2,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 514.5999999999998,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld14",
+      "target_coord": [
+        15,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          13,
+          2
+        ],
+        "target_map": "overworld4",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 259.05,
+      "steps": 5,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld4",
+      "final_coord": [
+        23,
+        31
+      ],
+      "target_map": "overworld4",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          26,
+          20
+        ],
+        "target_map": "overworld2",
+        "target_sector": 4,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 632.3500000000003,
+      "steps": 30,
+      "maps_visited": 10,
+      "map_coverage": 0.20408163265306123,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld2",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          24,
+          17
+        ],
+        "target_map": "overworld1",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 582.3500000000001,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "powerplant1",
+        "start_coord": [
+          24,
+          18
+        ],
+        "target_map": "overworld13",
+        "target_sector": 2,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 10.999999999999966,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        13,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "rockcave1",
+        "start_coord": [
+          10,
+          20
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 521.9499999999998,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          19,
+          24
+        ],
+        "target_map": "overworld22",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 475.7999999999998,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld22",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "powerplant1",
+        "start_coord": [
+          17,
+          14
+        ],
+        "target_map": "overworld16",
+        "target_sector": 3,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 10.999999999999966,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld10",
+      "final_coord": [
+        16,
+        16
+      ],
+      "target_map": "overworld16",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          13,
+          17
+        ],
+        "target_map": "overworld4",
+        "target_sector": 2,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 294.5,
+      "steps": 5,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld4",
+      "final_coord": [
+        31,
+        1
+      ],
+      "target_map": "overworld4",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "snowcave1",
+        "start_coord": [
+          25,
+          19
+        ],
+        "target_map": "overworld18",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld11",
+        "start_coord": [
+          30,
+          16
+        ],
+        "target_map": "overworld19",
+        "target_sector": 1,
+        "category": "long_4plus"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 469.7499999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld10",
+        "start_coord": [
+          19,
+          17
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 0,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 421.5499999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          21,
+          10
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 0,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 424.19999999999976,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          7,
+          23
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 0,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 449.5499999999997,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld3",
+        "start_coord": [
+          5,
+          23
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 387.9499999999998,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld4",
+        "start_coord": [
+          19,
+          26
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.94999999999976,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld18",
+        "start_coord": [
+          19,
+          13
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 522.3499999999998,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          31,
+          9
+        ],
+        "target_map": "snowcave1",
+        "target_sector": 4,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 412.64999999999975,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "snowcave1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          16,
+          22
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 3,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 542.0999999999999,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld16",
+        "start_coord": [
+          4,
+          6
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 438.4999999999997,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld22",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld6",
+        "start_coord": [
+          25,
+          29
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 462.9499999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          21,
+          5
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 541.6999999999999,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld15",
+        "start_coord": [
+          26,
+          8
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 431.7499999999998,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          14,
+          3
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 55.00000000000009,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          7,
+          13
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 55.00000000000009,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          16,
+          3
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 400.7999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          8,
+          19
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 3,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 491.4999999999997,
+      "steps": 30,
+      "maps_visited": 5,
+      "map_coverage": 0.10204081632653061,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          23,
+          6
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 0,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 306.3500000000001,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld21",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld6",
+        "start_coord": [
+          26,
+          23
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 4,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 462.9499999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          26,
+          12
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 0,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 572.5500000000001,
+      "steps": 30,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld8",
+        "start_coord": [
+          23,
+          1
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 461.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          4,
+          7
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 400.7999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld19",
+        "start_coord": [
+          20,
+          13
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 512.1499999999997,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          1,
+          18
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 512.1499999999997,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld19",
+        "start_coord": [
+          29,
+          11
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 552.15,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          21,
+          9
+        ],
+        "target_map": "snowcave1",
+        "target_sector": 4,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 55.00000000000009,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "snowcave1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld7",
+        "start_coord": [
+          9,
+          16
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 432.7499999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          20,
+          30
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 99.00000000000014,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld7",
+      "final_coord": [
+        31,
+        30
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        9
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          25,
+          24
+        ],
+        "target_map": "rockcave1",
+        "target_sector": 1,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 549.3,
+      "steps": 30,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "rockcave1",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld17",
+        "start_coord": [
+          3,
+          14
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 2,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 548.8,
+      "steps": 30,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          6,
+          13
+        ],
+        "target_map": "pkmntower1",
+        "target_sector": 4,
+        "category": "dungeon"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": -33.000000000000014,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld24",
+      "final_coord": [
+        6,
+        13
+      ],
+      "target_map": "pkmntower1",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld14",
+        "start_coord": [
+          13,
+          19
+        ],
+        "target_map": "overworld19",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 421.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          28,
+          18
+        ],
+        "target_map": "overworld6",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 521.9499999999998,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld9",
+        "start_coord": [
+          18,
+          22
+        ],
+        "target_map": "overworld13",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 431.09999999999974,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld18",
+        "start_coord": [
+          22,
+          7
+        ],
+        "target_map": "powerplant1",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 540.0999999999999,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "powerplant1",
+      "target_coord": [
+        7,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          3,
+          24
+        ],
+        "target_map": "overworld13",
+        "target_sector": 4,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 34.999999999999964,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          30,
+          20
+        ],
+        "target_map": "overworld13",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 532.1499999999999,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld13",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          10,
+          20
+        ],
+        "target_map": "overworld5",
+        "target_sector": 4,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 552.3,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld5",
+      "target_coord": [
+        24,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          4,
+          18
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 14.99999999999996,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld20",
+        "start_coord": [
+          19,
+          31
+        ],
+        "target_map": "overworld2",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 541.9499999999999,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld2",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld24",
+        "start_coord": [
+          22,
+          19
+        ],
+        "target_map": "overworld15",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.69999999999976,
+      "steps": 30,
+      "maps_visited": 6,
+      "map_coverage": 0.12244897959183673,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld15",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "snowcave1",
+        "start_coord": [
+          28,
+          20
+        ],
+        "target_map": "overworld14",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 481.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld14",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "pkmntower1",
+        "start_coord": [
+          23,
+          19
+        ],
+        "target_map": "snowcave1",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 420.7999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "snowcave1",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld17",
+        "start_coord": [
+          5,
+          30
+        ],
+        "target_map": "overworld19",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 14.99999999999996,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld7",
+      "final_coord": [
+        31,
+        30
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld4",
+        "start_coord": [
+          16,
+          6
+        ],
+        "target_map": "overworld9",
+        "target_sector": 1,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 122.9,
+      "steps": 1,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld9",
+      "final_coord": [
+        1,
+        7
+      ],
+      "target_map": "overworld9",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld1",
+        "start_coord": [
+          13,
+          2
+        ],
+        "target_map": "overworld1",
+        "target_sector": 2,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 411.0999999999998,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld1",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld10",
+        "start_coord": [
+          25,
+          21
+        ],
+        "target_map": "overworld4",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 165.8,
+      "steps": 2,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld4",
+      "final_coord": [
+        23,
+        31
+      ],
+      "target_map": "overworld4",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld12",
+        "start_coord": [
+          23,
+          3
+        ],
+        "target_map": "overworld7",
+        "target_sector": 2,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": true,
+      "reward": 145.85000000000002,
+      "steps": 2,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld7",
+      "final_coord": [
+        31,
+        26
+      ],
+      "target_map": "overworld7",
+      "target_coord": [
+        16,
+        15
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "unownruins1",
+        "start_coord": [
+          22,
+          27
+        ],
+        "target_map": "overworld7",
+        "target_sector": 2,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 55.00000000000009,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld10",
+      "final_coord": [
+        31,
+        16
+      ],
+      "target_map": "overworld7",
+      "target_coord": [
+        16,
+        15
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld13",
+        "start_coord": [
+          25,
+          8
+        ],
+        "target_map": "overworld21",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 532.2999999999998,
+      "steps": 30,
+      "maps_visited": 9,
+      "map_coverage": 0.1836734693877551,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld14",
+        "start_coord": [
+          20,
+          28
+        ],
+        "target_map": "overworld22",
+        "target_sector": 2,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 441.2999999999997,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld22",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld5",
+        "start_coord": [
+          11,
+          10
+        ],
+        "target_map": "overworld11",
+        "target_sector": 1,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 444.34999999999974,
+      "steps": 30,
+      "maps_visited": 4,
+      "map_coverage": 0.08163265306122448,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld11",
+      "target_coord": [
+        23,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld19",
+        "start_coord": [
+          11,
+          21
+        ],
+        "target_map": "overworld21",
+        "target_sector": 1,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 492.14999999999975,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld21",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          30,
+          10
+        ],
+        "target_map": "overworld3",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 418.8499999999999,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld12",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld3",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld3",
+        "start_coord": [
+          22,
+          20
+        ],
+        "target_map": "overworld6",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 383.0999999999998,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld6",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          22,
+          29
+        ],
+        "target_map": "overworld19",
+        "target_sector": 2,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 424.44999999999976,
+      "steps": 30,
+      "maps_visited": 2,
+      "map_coverage": 0.04081632653061224,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld19",
+      "target_coord": [
+        16,
+        16
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld25",
+        "start_coord": [
+          25,
+          21
+        ],
+        "target_map": "overworld2",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 572.15,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld2",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld22",
+        "start_coord": [
+          8,
+          3
+        ],
+        "target_map": "unownruins1",
+        "target_sector": 3,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 542.0999999999999,
+      "steps": 30,
+      "maps_visited": 8,
+      "map_coverage": 0.16326530612244897,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_coord": [
+        8,
+        24
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld21",
+        "start_coord": [
+          7,
+          17
+        ],
+        "target_map": "overworld14",
+        "target_sector": 0,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 300.05000000000007,
+      "steps": 30,
+      "maps_visited": 1,
+      "map_coverage": 0.02040816326530612,
+      "final_map": "overworld21",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld14",
+      "target_coord": [
+        8,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld23",
+        "start_coord": [
+          14,
+          3
+        ],
+        "target_map": "overworld18",
+        "target_sector": 1,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 491.89999999999975,
+      "steps": 30,
+      "maps_visited": 7,
+      "map_coverage": 0.14285714285714285,
+      "final_map": "overworld3",
+      "final_coord": [
+        24,
+        24
+      ],
+      "target_map": "overworld18",
+      "target_coord": [
+        24,
+        8
+      ]
+    },
+    {
+      "scenario": {
+        "start_map": "overworld2",
+        "start_coord": [
+          23,
+          21
+        ],
+        "target_map": "overworld11",
+        "target_sector": 4,
+        "category": "random"
+      },
+      "success": false,
+      "map_success": false,
+      "reward": 413.24999999999983,
+      "steps": 30,
+      "maps_visited": 3,
+      "map_coverage": 0.061224489795918366,
+      "final_map": "overworld3",
+      "final_coord": [
+        8,
+        8
+      ],
+      "target_map": "overworld11",
+      "target_coord": [
+        24,
+        24
+      ]
+    }
+  ],
+  "checkpoint": "models/global_49map_dqn_best.pt",
+  "eval_scenarios_path": "data/processed/global_eval_scenarios_v1.json"
+}

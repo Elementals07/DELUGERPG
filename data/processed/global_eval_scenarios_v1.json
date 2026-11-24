@@ -1,0 +1,2007 @@
+{
+  "version": 1,
+  "seed": 12345,
+  "count": 200,
+  "scenarios": [
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        8,
+        28
+      ],
+      "target_map": "overworld21",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "powerplant1",
+      "start_coord": [
+        9,
+        22
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 2,
+      "category": "same_map"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        3,
+        15
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 1,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld3",
+      "start_coord": [
+        29,
+        6
+      ],
+      "target_map": "overworld3",
+      "target_sector": 3,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        2,
+        24
+      ],
+      "target_map": "overworld2",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld17",
+      "start_coord": [
+        29,
+        27
+      ],
+      "target_map": "overworld17",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld14",
+      "start_coord": [
+        22,
+        24
+      ],
+      "target_map": "overworld14",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld14",
+      "start_coord": [
+        29,
+        23
+      ],
+      "target_map": "overworld14",
+      "target_sector": 2,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        20,
+        20
+      ],
+      "target_map": "overworld8",
+      "target_sector": 3,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        28,
+        5
+      ],
+      "target_map": "overworld24",
+      "target_sector": 1,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld15",
+      "start_coord": [
+        5,
+        14
+      ],
+      "target_map": "overworld15",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        9,
+        23
+      ],
+      "target_map": "overworld1",
+      "target_sector": 3,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        25,
+        26
+      ],
+      "target_map": "overworld1",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        22,
+        12
+      ],
+      "target_map": "overworld1",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld9",
+      "start_coord": [
+        3,
+        8
+      ],
+      "target_map": "overworld9",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld18",
+      "start_coord": [
+        15,
+        28
+      ],
+      "target_map": "overworld18",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        13,
+        30
+      ],
+      "target_map": "overworld21",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld6",
+      "start_coord": [
+        15,
+        9
+      ],
+      "target_map": "overworld6",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        23,
+        8
+      ],
+      "target_map": "overworld8",
+      "target_sector": 3,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        18,
+        26
+      ],
+      "target_map": "overworld24",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        5,
+        3
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 2,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        5,
+        14
+      ],
+      "target_map": "overworld16",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "rockcave1",
+      "start_coord": [
+        23,
+        6
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        14,
+        24
+      ],
+      "target_map": "overworld16",
+      "target_sector": 2,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld19",
+      "start_coord": [
+        21,
+        17
+      ],
+      "target_map": "overworld19",
+      "target_sector": 1,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld19",
+      "start_coord": [
+        6,
+        3
+      ],
+      "target_map": "overworld19",
+      "target_sector": 0,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld10",
+      "start_coord": [
+        13,
+        4
+      ],
+      "target_map": "overworld10",
+      "target_sector": 3,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        8,
+        30
+      ],
+      "target_map": "overworld20",
+      "target_sector": 1,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        15,
+        16
+      ],
+      "target_map": "overworld1",
+      "target_sector": 2,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld6",
+      "start_coord": [
+        8,
+        7
+      ],
+      "target_map": "overworld6",
+      "target_sector": 4,
+      "category": "same_map"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        15,
+        1
+      ],
+      "target_map": "overworld23",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld4",
+      "start_coord": [
+        15,
+        26
+      ],
+      "target_map": "overworld5",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        15,
+        29
+      ],
+      "target_map": "overworld21",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld12",
+      "start_coord": [
+        7,
+        7
+      ],
+      "target_map": "overworld7",
+      "target_sector": 4,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        21,
+        15
+      ],
+      "target_map": "overworld11",
+      "target_sector": 1,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld11",
+      "start_coord": [
+        6,
+        16
+      ],
+      "target_map": "overworld16",
+      "target_sector": 1,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld17",
+      "start_coord": [
+        31,
+        5
+      ],
+      "target_map": "overworld18",
+      "target_sector": 4,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        18,
+        7
+      ],
+      "target_map": "overworld24",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "snowcave1",
+      "start_coord": [
+        27,
+        9
+      ],
+      "target_map": "overworld1",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld10",
+      "start_coord": [
+        5,
+        23
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        24,
+        27
+      ],
+      "target_map": "overworld9",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        2,
+        7
+      ],
+      "target_map": "overworld9",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld11",
+      "start_coord": [
+        26,
+        24
+      ],
+      "target_map": "overworld16",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld18",
+      "start_coord": [
+        2,
+        8
+      ],
+      "target_map": "overworld19",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld15",
+      "start_coord": [
+        18,
+        22
+      ],
+      "target_map": "overworld14",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        31,
+        4
+      ],
+      "target_map": "overworld7",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld6",
+      "start_coord": [
+        29,
+        9
+      ],
+      "target_map": "overworld11",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld10",
+      "start_coord": [
+        14,
+        24
+      ],
+      "target_map": "overworld5",
+      "target_sector": 1,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        20,
+        20
+      ],
+      "target_map": "snowcave1",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld12",
+      "start_coord": [
+        12,
+        31
+      ],
+      "target_map": "overworld13",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        16,
+        23
+      ],
+      "target_map": "overworld21",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        20,
+        6
+      ],
+      "target_map": "overworld25",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld7",
+      "start_coord": [
+        5,
+        12
+      ],
+      "target_map": "overworld2",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld9",
+      "start_coord": [
+        29,
+        16
+      ],
+      "target_map": "overworld8",
+      "target_sector": 2,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        23,
+        9
+      ],
+      "target_map": "overworld18",
+      "target_sector": 4,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        21,
+        2
+      ],
+      "target_map": "overworld18",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        12,
+        8
+      ],
+      "target_map": "overworld17",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        22,
+        7
+      ],
+      "target_map": "overworld2",
+      "target_sector": 0,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        2,
+        10
+      ],
+      "target_map": "overworld1",
+      "target_sector": 4,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld9",
+      "start_coord": [
+        11,
+        8
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 3,
+      "category": "short_1hop"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        1,
+        12
+      ],
+      "target_map": "overworld17",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        16,
+        3
+      ],
+      "target_map": "overworld8",
+      "target_sector": 3,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld15",
+      "start_coord": [
+        14,
+        2
+      ],
+      "target_map": "overworld4",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld12",
+      "start_coord": [
+        8,
+        4
+      ],
+      "target_map": "overworld21",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        31,
+        11
+      ],
+      "target_map": "overworld13",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld12",
+      "start_coord": [
+        7,
+        7
+      ],
+      "target_map": "overworld21",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        14,
+        27
+      ],
+      "target_map": "overworld12",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        2,
+        30
+      ],
+      "target_map": "overworld19",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        28,
+        18
+      ],
+      "target_map": "overworld10",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        15,
+        14
+      ],
+      "target_map": "overworld13",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld7",
+      "start_coord": [
+        26,
+        7
+      ],
+      "target_map": "overworld3",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        17,
+        5
+      ],
+      "target_map": "overworld8",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        14,
+        19
+      ],
+      "target_map": "overworld12",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        16,
+        1
+      ],
+      "target_map": "overworld24",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld3",
+      "start_coord": [
+        1,
+        21
+      ],
+      "target_map": "overworld9",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        15,
+        26
+      ],
+      "target_map": "overworld25",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        5,
+        23
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 3,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld11",
+      "start_coord": [
+        20,
+        10
+      ],
+      "target_map": "overworld22",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld4",
+      "start_coord": [
+        20,
+        29
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        24,
+        1
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        16,
+        2
+      ],
+      "target_map": "overworld19",
+      "target_sector": 3,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld17",
+      "start_coord": [
+        18,
+        14
+      ],
+      "target_map": "overworld19",
+      "target_sector": 3,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld4",
+      "start_coord": [
+        2,
+        27
+      ],
+      "target_map": "overworld13",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "rockcave1",
+      "start_coord": [
+        25,
+        19
+      ],
+      "target_map": "overworld10",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld14",
+      "start_coord": [
+        22,
+        7
+      ],
+      "target_map": "overworld12",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        23,
+        8
+      ],
+      "target_map": "overworld10",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld14",
+      "start_coord": [
+        15,
+        22
+      ],
+      "target_map": "overworld24",
+      "target_sector": 3,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld12",
+      "start_coord": [
+        17,
+        9
+      ],
+      "target_map": "overworld23",
+      "target_sector": 3,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        2,
+        9
+      ],
+      "target_map": "snowcave1",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "powerplant1",
+      "start_coord": [
+        15,
+        15
+      ],
+      "target_map": "overworld20",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        23,
+        31
+      ],
+      "target_map": "overworld6",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        16,
+        19
+      ],
+      "target_map": "overworld15",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        1,
+        26
+      ],
+      "target_map": "overworld5",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        4,
+        24
+      ],
+      "target_map": "overworld8",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        31,
+        24
+      ],
+      "target_map": "overworld15",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        2,
+        11
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 0,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        27,
+        11
+      ],
+      "target_map": "overworld3",
+      "target_sector": 1,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld6",
+      "start_coord": [
+        16,
+        30
+      ],
+      "target_map": "overworld16",
+      "target_sector": 2,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        8,
+        9
+      ],
+      "target_map": "overworld22",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        4,
+        6
+      ],
+      "target_map": "overworld5",
+      "target_sector": 4,
+      "category": "medium_2_3"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        19,
+        24
+      ],
+      "target_map": "overworld24",
+      "target_sector": 4,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        25,
+        24
+      ],
+      "target_map": "overworld16",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        29,
+        5
+      ],
+      "target_map": "overworld11",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        4,
+        11
+      ],
+      "target_map": "overworld19",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "snowcave1",
+      "start_coord": [
+        9,
+        9
+      ],
+      "target_map": "overworld21",
+      "target_sector": 0,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        23,
+        15
+      ],
+      "target_map": "overworld15",
+      "target_sector": 4,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "powerplant1",
+      "start_coord": [
+        13,
+        2
+      ],
+      "target_map": "overworld17",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld5",
+      "start_coord": [
+        24,
+        27
+      ],
+      "target_map": "overworld24",
+      "target_sector": 0,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        9,
+        27
+      ],
+      "target_map": "snowcave1",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        10,
+        25
+      ],
+      "target_map": "overworld5",
+      "target_sector": 0,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        21,
+        19
+      ],
+      "target_map": "overworld20",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        27,
+        9
+      ],
+      "target_map": "overworld17",
+      "target_sector": 0,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        14,
+        3
+      ],
+      "target_map": "overworld17",
+      "target_sector": 0,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "powerplant1",
+      "start_coord": [
+        17,
+        9
+      ],
+      "target_map": "overworld13",
+      "target_sector": 4,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        26,
+        28
+      ],
+      "target_map": "overworld19",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        10,
+        18
+      ],
+      "target_map": "overworld4",
+      "target_sector": 2,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        13,
+        27
+      ],
+      "target_map": "overworld18",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "snowcave1",
+      "start_coord": [
+        6,
+        19
+      ],
+      "target_map": "overworld20",
+      "target_sector": 4,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        25,
+        24
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 4,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        7,
+        20
+      ],
+      "target_map": "overworld17",
+      "target_sector": 2,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld9",
+      "start_coord": [
+        7,
+        31
+      ],
+      "target_map": "overworld11",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld3",
+      "start_coord": [
+        28,
+        2
+      ],
+      "target_map": "overworld23",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld19",
+      "start_coord": [
+        15,
+        12
+      ],
+      "target_map": "overworld7",
+      "target_sector": 0,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld4",
+      "start_coord": [
+        23,
+        17
+      ],
+      "target_map": "overworld6",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld11",
+      "start_coord": [
+        22,
+        14
+      ],
+      "target_map": "overworld23",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "snowcave1",
+      "start_coord": [
+        23,
+        28
+      ],
+      "target_map": "overworld8",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld9",
+      "start_coord": [
+        7,
+        27
+      ],
+      "target_map": "overworld1",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        31,
+        31
+      ],
+      "target_map": "overworld1",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        25,
+        13
+      ],
+      "target_map": "overworld6",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        1,
+        22
+      ],
+      "target_map": "overworld14",
+      "target_sector": 2,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        13,
+        2
+      ],
+      "target_map": "overworld4",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        26,
+        20
+      ],
+      "target_map": "overworld2",
+      "target_sector": 4,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        24,
+        17
+      ],
+      "target_map": "overworld1",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "powerplant1",
+      "start_coord": [
+        24,
+        18
+      ],
+      "target_map": "overworld13",
+      "target_sector": 2,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "rockcave1",
+      "start_coord": [
+        10,
+        20
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        19,
+        24
+      ],
+      "target_map": "overworld22",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "powerplant1",
+      "start_coord": [
+        17,
+        14
+      ],
+      "target_map": "overworld16",
+      "target_sector": 3,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        13,
+        17
+      ],
+      "target_map": "overworld4",
+      "target_sector": 2,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "snowcave1",
+      "start_coord": [
+        25,
+        19
+      ],
+      "target_map": "overworld18",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld11",
+      "start_coord": [
+        30,
+        16
+      ],
+      "target_map": "overworld19",
+      "target_sector": 1,
+      "category": "long_4plus"
+    },
+    {
+      "start_map": "overworld10",
+      "start_coord": [
+        19,
+        17
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 0,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        21,
+        10
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 0,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        7,
+        23
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 0,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld3",
+      "start_coord": [
+        5,
+        23
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld4",
+      "start_coord": [
+        19,
+        26
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld18",
+      "start_coord": [
+        19,
+        13
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        31,
+        9
+      ],
+      "target_map": "snowcave1",
+      "target_sector": 4,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        16,
+        22
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 3,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld16",
+      "start_coord": [
+        4,
+        6
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld6",
+      "start_coord": [
+        25,
+        29
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        21,
+        5
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld15",
+      "start_coord": [
+        26,
+        8
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        14,
+        3
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        7,
+        13
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        16,
+        3
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        8,
+        19
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 3,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        23,
+        6
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 0,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld6",
+      "start_coord": [
+        26,
+        23
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 4,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        26,
+        12
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 0,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld8",
+      "start_coord": [
+        23,
+        1
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        4,
+        7
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld19",
+      "start_coord": [
+        20,
+        13
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        1,
+        18
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld19",
+      "start_coord": [
+        29,
+        11
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        21,
+        9
+      ],
+      "target_map": "snowcave1",
+      "target_sector": 4,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld7",
+      "start_coord": [
+        9,
+        16
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        20,
+        30
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        25,
+        24
+      ],
+      "target_map": "rockcave1",
+      "target_sector": 1,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld17",
+      "start_coord": [
+        3,
+        14
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 2,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        6,
+        13
+      ],
+      "target_map": "pkmntower1",
+      "target_sector": 4,
+      "category": "dungeon"
+    },
+    {
+      "start_map": "overworld14",
+      "start_coord": [
+        13,
+        19
+      ],
+      "target_map": "overworld19",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        28,
+        18
+      ],
+      "target_map": "overworld6",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld9",
+      "start_coord": [
+        18,
+        22
+      ],
+      "target_map": "overworld13",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld18",
+      "start_coord": [
+        22,
+        7
+      ],
+      "target_map": "powerplant1",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        3,
+        24
+      ],
+      "target_map": "overworld13",
+      "target_sector": 4,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        30,
+        20
+      ],
+      "target_map": "overworld13",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        10,
+        20
+      ],
+      "target_map": "overworld5",
+      "target_sector": 4,
+      "category": "random"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        4,
+        18
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld20",
+      "start_coord": [
+        19,
+        31
+      ],
+      "target_map": "overworld2",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld24",
+      "start_coord": [
+        22,
+        19
+      ],
+      "target_map": "overworld15",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "snowcave1",
+      "start_coord": [
+        28,
+        20
+      ],
+      "target_map": "overworld14",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "pkmntower1",
+      "start_coord": [
+        23,
+        19
+      ],
+      "target_map": "snowcave1",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld17",
+      "start_coord": [
+        5,
+        30
+      ],
+      "target_map": "overworld19",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld4",
+      "start_coord": [
+        16,
+        6
+      ],
+      "target_map": "overworld9",
+      "target_sector": 1,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld1",
+      "start_coord": [
+        13,
+        2
+      ],
+      "target_map": "overworld1",
+      "target_sector": 2,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld10",
+      "start_coord": [
+        25,
+        21
+      ],
+      "target_map": "overworld4",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld12",
+      "start_coord": [
+        23,
+        3
+      ],
+      "target_map": "overworld7",
+      "target_sector": 2,
+      "category": "random"
+    },
+    {
+      "start_map": "unownruins1",
+      "start_coord": [
+        22,
+        27
+      ],
+      "target_map": "overworld7",
+      "target_sector": 2,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld13",
+      "start_coord": [
+        25,
+        8
+      ],
+      "target_map": "overworld21",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld14",
+      "start_coord": [
+        20,
+        28
+      ],
+      "target_map": "overworld22",
+      "target_sector": 2,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld5",
+      "start_coord": [
+        11,
+        10
+      ],
+      "target_map": "overworld11",
+      "target_sector": 1,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld19",
+      "start_coord": [
+        11,
+        21
+      ],
+      "target_map": "overworld21",
+      "target_sector": 1,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        30,
+        10
+      ],
+      "target_map": "overworld3",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld3",
+      "start_coord": [
+        22,
+        20
+      ],
+      "target_map": "overworld6",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        22,
+        29
+      ],
+      "target_map": "overworld19",
+      "target_sector": 2,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld25",
+      "start_coord": [
+        25,
+        21
+      ],
+      "target_map": "overworld2",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld22",
+      "start_coord": [
+        8,
+        3
+      ],
+      "target_map": "unownruins1",
+      "target_sector": 3,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld21",
+      "start_coord": [
+        7,
+        17
+      ],
+      "target_map": "overworld14",
+      "target_sector": 0,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld23",
+      "start_coord": [
+        14,
+        3
+      ],
+      "target_map": "overworld18",
+      "target_sector": 1,
+      "category": "random"
+    },
+    {
+      "start_map": "overworld2",
+      "start_coord": [
+        23,
+        21
+      ],
+      "target_map": "overworld11",
+      "target_sector": 4,
+      "category": "random"
+    }
+  ]
+}
